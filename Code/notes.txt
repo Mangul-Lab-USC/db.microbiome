@@ -1,0 +1,38 @@
+insert into db:
+
+number of mitchondrial dna sequences
+avg length of chromosome, contig, plasmid
+min, max,  length
+
+
+
+
+plasmid dna present
+number of plasmid dna sequences
+
+
+filePath = 'Users/aaronkarlsberg/Desktop/199/Code/filepaths.list'
+fileName = re.search(r'^(.+)/([^/]+)$', filePath).group(2).strip()+'.gz'
+
+
+
+mitochondria = re.search(r'Mt|mitochondrial|mitochondrion', line).group()
+
+line = "hellomitochondrialzzz"
+line = "mitochondrial"
+
+mitochondria = re.search(r'mitochondrial', line).group()
+
+line = "sfvasdfvdafcdscsdavMt"
+
+
+mtdna = re.search(r"[(Mt|mitochondrial|mitochondrion)]", line).group()
+mtdna
+
+
+line2 = "hellomitochondrialzzz"
+
+
+line = "sfvasdfvdaf cdscsdavmtmitochondrial.  sdfsdmitochondrion"
+mtdna = re.findall(r"Mt|mitochondrial|mitochondrion", line, re.I)
+mtdna
