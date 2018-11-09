@@ -41,16 +41,16 @@ def make_list_of_lists_into_dictionary(list_of_lists, placek, placev, placet):
 
 # Set up the variables
 # The names of the text files that hold the csv styled lists matching taxID's to filenames.
-# onek_filename = "/u/home/a/akarlsbe/scratch/fungi/code/updated_onek_csv.txt" # This one is a list of directories, so must be treated differently
-# ensembl_filename = "/u/home/a/akarlsbe/scratch/fungi/code/updated_ensemble_csv.txt"
-# ncbi_filename = "/u/home/a/akarlsbe/scratch/fungi/code/NCBI_taxID_list.txt"
+onek_filename = "/u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/updated_onek_csv.txt" # This one is a list of directories, so must be treated differently
+ensembl_filename = "/u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/updated_ensembl_csv.txt"
+ncbi_filename = "/u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/NCBI_taxID_list.txt"
 
 # onek_filename = "/u/home/a/akarlsbe/scratch/fungi/code/1k_taxid_filenames.txt" # This one is a list of directories, so must be treated differently
 # 
 
-onek_filename = '/Users/aaronkarlsberg/Desktop/db.microbiome/Code/updated_onek_csv.txt'
-ensembl_filename = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/updated_ensembl_csv.txt"
-ncbi_filename = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/NCBI_taxID_list.txt"
+# onek_filename = '/Users/aaronkarlsberg/Desktop/db.microbiome/Code/updated_onek_csv.txt'
+# ensembl_filename = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/updated_ensembl_csv.txt"
+# ncbi_filename = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/NCBI_taxID_list.txt"
 
       
 
@@ -104,8 +104,8 @@ def create_table():
 
 def make_array_of_file_paths():
 	filesToParse = []
-	# filePathList = "/u/home/a/akarlsbe/scratch/fungi/code/filepaths.list"
-	filePathList = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/filepaths.list"
+	filePathList = "/u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/filepaths.list"
+	# filePathList = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/filepaths.list"
 	with open(filePathList) as f:
                 for line in f:
                         filesToParse.append(line)
@@ -205,100 +205,100 @@ def parse_file(filePath):
 
 
 # open individual sequence file and determine following attributes:
-	# 	with open(filePath.strip()) as f:
-	# 		for line in f:
-	# # determine what type of dna is present in following sequence and increment count of sequences for dna type in file.: 
-	# 			dnaCategories = re.findall(r"Mt", line) # where we dont ignore case for mt 
-	# 			dnaCategories += re.findall(r"mitochondrial|mitochondrion|plasmid|contig|scaffold|chromosome|sca|chr", line, re.I)
-	# 			chromosome = False
-	# 			plasmid = False
-	# 			mitochondria = False
-	# 			contig = False
-	# 			# print("HELLOOOO")
+		with open(filePath.strip()) as f:
+			for line in f:
+	# determine what type of dna is present in following sequence and increment count of sequences for dna type in file.: 
+				dnaCategories = re.findall(r"Mt", line) # where we dont ignore case for mt 
+				dnaCategories += re.findall(r"mitochondrial|mitochondrion|plasmid|contig|scaffold|chromosome|sca|chr", line, re.I)
+				chromosome = False
+				plasmid = False
+				mitochondria = False
+				contig = False
+				# print("HELLOOOO")
 
 	# # determine all categories which are marked true. loop through categories array.
-	# 			for category in dnaCategories:
-	# 				if helper.is_mitochnondria(category):
-	# 					mitochondria = True
-	# 					# print("mitchondria")
-	# 				elif helper.is_plasmid(category):
-	# 					plasmid = True
-	# 					# print("plasmid")
-	# 				elif helper.is_contig(category):
-	# 					contig = True
-	# 					# print("contig")
-	# 				elif helper.is_chromosome(category):
-	# 					chromosome = True
-	# 					# print("chromosome")
+				for category in dnaCategories:
+					if helper.is_mitochnondria(category):
+						mitochondria = True
+						# print("mitchondria")
+					elif helper.is_plasmid(category):
+						plasmid = True
+						# print("plasmid")
+					elif helper.is_contig(category):
+						contig = True
+						# print("contig")
+					elif helper.is_chromosome(category):
+						chromosome = True
+						# print("chromosome")
 
 	# 	# mark sequence according to priority as follows. Chromosome is last bc it is used in name even when the sequence is only a contig or scaffold.
 	# 	# mark line number and compare current count of nucleotides to 
-	# 			if mitochondria:
-	# 				seqAttributes["mtDNA_count"] += 1
-	# 				helper.determine_sequence_lengths(prev_dna_type, nucleotide_count, chrom_lengths, mt_lengths, plasmid_lengths, contig_lengths)
-	# 				prev_dna_type = 'mitochondria'
-	# 				nucleotide_count = 0
-	# 			elif plasmid:
-	# 				seqAttributes["plasmid_count"] += 1
-	# 				helper.determine_sequence_lengths(prev_dna_type, nucleotide_count, chrom_lengths, mt_lengths, plasmid_lengths, contig_lengths)
-	# 				prev_dna_type = 'plasmid'
-	# 				nucleotide_count = 0
+				if mitochondria:
+					seqAttributes["mtDNA_count"] += 1
+					helper.determine_sequence_lengths(prev_dna_type, nucleotide_count, chrom_lengths, mt_lengths, plasmid_lengths, contig_lengths)
+					prev_dna_type = 'mitochondria'
+					nucleotide_count = 0
+				elif plasmid:
+					seqAttributes["plasmid_count"] += 1
+					helper.determine_sequence_lengths(prev_dna_type, nucleotide_count, chrom_lengths, mt_lengths, plasmid_lengths, contig_lengths)
+					prev_dna_type = 'plasmid'
+					nucleotide_count = 0
 
-	# 			elif contig:
-	# 				seqAttributes["contig_count"] += 1
-	# 				helper.determine_sequence_lengths(prev_dna_type, nucleotide_count, chrom_lengths, mt_lengths, plasmid_lengths, contig_lengths)
-	# 				prev_dna_type = 'contig'
-	# 				nucleotide_count = 0
-	# 			elif chromosome:
-	# 				seqAttributes["chromosome_count"] += 1
-	# 				helper.determine_sequence_lengths(prev_dna_type, nucleotide_count, chrom_lengths, mt_lengths, plasmid_lengths, contig_lengths)
-	# 				prev_dna_type = 'chromosome'
-	# 				nucleotide_count = 0
-	# 				# if none of above conditions are satisfied, then line is a sequence of nucleotides so add the length of that line to nucleotide count to determine next seq length.
-	# 			else:
-	# 				nucleotide_count += len(line)
-	# 				# print(nucleotide_count)
-	# 				# print("hello")
+				elif contig:
+					seqAttributes["contig_count"] += 1
+					helper.determine_sequence_lengths(prev_dna_type, nucleotide_count, chrom_lengths, mt_lengths, plasmid_lengths, contig_lengths)
+					prev_dna_type = 'contig'
+					nucleotide_count = 0
+				elif chromosome:
+					seqAttributes["chromosome_count"] += 1
+					helper.determine_sequence_lengths(prev_dna_type, nucleotide_count, chrom_lengths, mt_lengths, plasmid_lengths, contig_lengths)
+					prev_dna_type = 'chromosome'
+					nucleotide_count = 0
+					# if none of above conditions are satisfied, then line is a sequence of nucleotides so add the length of that line to nucleotide count to determine next seq length.
+				else:
+					nucleotide_count += len(line)
+					# print(nucleotide_count)
+					# print("hello")
 
-	# 			# print("hello")
-	# 	# sort arrays containing lengths of each seqeuence. Determine min, max and avg lengths.
-	# 	if len(chrom_lengths) >= 1:	
-	# 		chrom_lengths.sort()
-	# 		sum_chrom_lengths = 0
-	# 		seqAttributes["min_length_chromosomes"] = chrom_lengths[0]
-	# 		seqAttributes["max_length_chromosomes"] = chrom_lengths[-1]
-	# 		for lengths in chrom_lengths:
-	# 			sum_chrom_lengths += lengths
-	# 		seqAttributes["avg_length_chromosomes"] = sum_chrom_lengths / seqAttributes["chromosome_count"]
+				# print("hello")
+		# sort arrays containing lengths of each seqeuence. Determine min, max and avg lengths.
+		if len(chrom_lengths) >= 1:	
+			chrom_lengths.sort()
+			sum_chrom_lengths = 0
+			seqAttributes["min_length_chromosomes"] = chrom_lengths[0]
+			seqAttributes["max_length_chromosomes"] = chrom_lengths[-1]
+			for lengths in chrom_lengths:
+				sum_chrom_lengths += lengths
+			seqAttributes["avg_length_chromosomes"] = sum_chrom_lengths / seqAttributes["chromosome_count"]
 
-	# 	if len(mt_lengths) >= 1:
-	# 		mt_lengths.sort()
-	# 		sum_mt_lengths = 0
-	# 		seqAttributes["min_length_mtDNA"] = mt_lengths[0]
-	# 		seqAttributes["max_length_mtDNA"] = mt_lengths[-1]
-	# 		for lengths in mt_lengths:
-	# 			sum_mt_lengths += lengths
-	# 		seqAttributes["avg_length_mtDNA"] = sum_mt_lengths / seqAttributes["mtDNA_count"]
+		if len(mt_lengths) >= 1:
+			mt_lengths.sort()
+			sum_mt_lengths = 0
+			seqAttributes["min_length_mtDNA"] = mt_lengths[0]
+			seqAttributes["max_length_mtDNA"] = mt_lengths[-1]
+			for lengths in mt_lengths:
+				sum_mt_lengths += lengths
+			seqAttributes["avg_length_mtDNA"] = sum_mt_lengths / seqAttributes["mtDNA_count"]
 
-	# 	if len(plasmid_lengths) >= 1:
-	# 		plasmid_lengths.sort()
-	# 		sum_plasmid_lengths = 0
-	# 		seqAttributes["min_length_plasmids"] = plasmid_lengths[0]
-	# 		seqAttributes["max_length_plasmids"] = plasmid_lengths[-1]
-	# 		for lengths in plasmid_lengths:
-	# 			sum_plasmid_lengths += lengths
-	# 		seqAttributes["avg_length_plasmids"] = sum_plasmid_lengths / seqAttributes["plasmid_count"]
+		if len(plasmid_lengths) >= 1:
+			plasmid_lengths.sort()
+			sum_plasmid_lengths = 0
+			seqAttributes["min_length_plasmids"] = plasmid_lengths[0]
+			seqAttributes["max_length_plasmids"] = plasmid_lengths[-1]
+			for lengths in plasmid_lengths:
+				sum_plasmid_lengths += lengths
+			seqAttributes["avg_length_plasmids"] = sum_plasmid_lengths / seqAttributes["plasmid_count"]
 
 
-	# 	if len(contig_lengths) >= 1:
-	# 		contig_lengths.sort()
-	# 		sum_contig_lengths = 0
-	# 		# print(contig_lengths)
-	# 		seqAttributes["min_length_contig"] = contig_lengths[0]
-	# 		seqAttributes["max_length_contig"] = contig_lengths[-1]
-	# 		for lengths in contig_lengths:
-	# 			sum_contig_lengths += lengths
-	# 		seqAttributes["avg_length_contig"] = sum_contig_lengths / seqAttributes["contig_count"]
+		if len(contig_lengths) >= 1:
+			contig_lengths.sort()
+			sum_contig_lengths = 0
+			# print(contig_lengths)
+			seqAttributes["min_length_contig"] = contig_lengths[0]
+			seqAttributes["max_length_contig"] = contig_lengths[-1]
+			for lengths in contig_lengths:
+				sum_contig_lengths += lengths
+			seqAttributes["avg_length_contig"] = sum_contig_lengths / seqAttributes["contig_count"]
 
 	# print(seqAttributes)
 	return seqAttributes

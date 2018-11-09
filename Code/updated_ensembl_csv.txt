@@ -1,0 +1,811 @@
+4829	Absidia_glauca.AG_v1.dna.toplevel.fa.gz	Absidia glauca
+245562	Acidomyces_richmondensis.ASM157207v1.dna.toplevel.fa.gz	Acidomyces richmondensis
+766039	Acidomyces_richmondensis_bfw.Acidomyces_richmondensis_BFW_v1.0.dna.toplevel.fa.gz	Acidomyces richmondensis BFW
+857340	Acremonium_chrysogenum_atcc_11550.ASM76926v1.dna.toplevel.fa.gz	Acremonium chrysogenum ATCC 11550
+597362	Agaricus_bisporus_var_burnettii_jb137_s8.Agabi_varbur_1.dna.toplevel.fa.gz	Agaricus bisporus var. burnettii JB137-S8
+578462	Allomyces_macrogynus_atcc_38327.A_macrogynus_V3.dna.toplevel.fa.gz	Allomyces macrogynus ATCC 38327
+5599	Alternaria_alternata.Altal1.dna.toplevel.fa.gz	Alternaria alternata
+946122	Amanita_muscaria_koide_bx008.Amanita_muscaria_Koide_BX008_v1.0.dna.toplevel.fa.gz	Amanita muscaria Koide BX008
+1866961	Amphiamblys_sp_wsbs2006.ASM187567v1.dna.toplevel.fa.gz	Amphiamblys sp. WSBS2006
+1240240	Anncaliia_algerae_pra109.Annc_alge_PRA109_V4.dna.toplevel.fa.gz	Anncaliia algerae PRA109
+1288291	Anncaliia_algerae_pra339.Annc_alge_insect_USDA_JJB_V2.dna.toplevel.fa.gz	Anncaliia algerae PRA339
+1277687	Anthracocystis_flocculosa_pf_1.Pflocc_1.0.dna.toplevel.fa.gz	Anthracocystis flocculosa PF-1
+756982	Arthrobotrys_oligospora_atcc_24927.AOL24927_1.0.dna.toplevel.fa.gz	Arthrobotrys oligospora ATCC 24927
+554155	Arthroderma_otae_cbs_113480.ASM15114v1.dna.toplevel.fa.gz	Microsporum canis CBS 113480
+1081109	Aschersonia_aleyrodis_rcef_2490.AAL_1.0.dna.toplevel.fa.gz	Moelleriella libera RCEF 2490
+5454	Ascochyta_rabiei.AscRab1.0.dna.toplevel.fa.gz	Ascochyta rabiei
+1344418	Ascoidea_rubescens_dsm_1968.Ascru1.dna.toplevel.fa.gz	Ascoidea rubescens DSM 1968
+392613	Ascosphaera_apis_arsef_7405.AAP_1.0.dna.toplevel.fa.gz	Ascosphaera apis ARSEF 7405
+284811	Ashbya_gossypii.ASM9102v1.dna.toplevel.fa.gz	Eremothecium gossypii ATCC 10895
+690307	Aspergillus_aculeatus_atcc_16872.Aspac1.dna.toplevel.fa.gz	Aspergillus aculeatus ATCC 16872
+109264	Aspergillus_bombycis.ASM179269v1.dna.toplevel.fa.gz	Aspergillus bombycis
+767769	Aspergillus_brasiliensis_cbs_101740.Aspbr1.dna.toplevel.fa.gz	Aspergillus brasiliensis CBS 101740
+454130	Aspergillus_calidoustus.Acal_Allpaths_LG.dna.toplevel.fa.gz	Aspergillus calidoustus
+602072	Aspergillus_carbonarius_item_5010.Aspca3.dna.toplevel.fa.gz	Aspergillus carbonarius ITEM 5010
+344612	Aspergillus_clavatus.ASM271v1.dna.toplevel.fa.gz	Aspergillus clavatus NRRL 1
+573508	Aspergillus_cristatus.ASM171748v1.dna.toplevel.fa.gz	Aspergillus cristatus
+1392242	Aspergillus_flavus_af70.ASM95283v1.dna.toplevel.fa.gz	Aspergillus flavus AF70
+332952	Aspergillus_flavus.JCVI-afl1-v2.0.dna.toplevel.fa.gz	Aspergillus flavus NRRL3357
+451804	Aspergillus_fumigatusa1163.ASM15014v1.dna.toplevel.fa.gz	Aspergillus fumigatus A1163
+330879	Aspergillus_fumigatus.ASM265v1.dna.toplevel.fa.gz	Aspergillus fumigatus Af293
+1476192	Aspergillus_fumigatus_var_rp_2014.AspFumNiv1.0.dna.toplevel.fa.gz	Aspergillus fumigatus var. RP-2014
+1437362	Aspergillus_fumigatus_z5.ASM102932v1.dna.toplevel.fa.gz	Aspergillus fumigatus Z5
+1160497	Aspergillus_glaucus_cbs_516_65.Aspgl1.dna.toplevel.fa.gz	Aspergillus glaucus CBS 516.65
+293939	Aspergillus_lentulus.Alt_assembly01.dna.toplevel.fa.gz	Aspergillus lentulus
+1069201	Aspergillus_luchuensis.AspL_2604.dna.toplevel.fa.gz	Aspergillus luchuensis
+1137211	Aspergillus_luchuensis_cbs_106_47.Aspfo1.dna.toplevel.fa.gz	Aspergillus luchuensis CBS 106.47
+227321	Aspergillus_nidulans.ASM1142v1.dna.toplevel.fa.gz	Aspergillus nidulans FGSC A4
+227321	Aspergillus_nidulans_fgsc_a4.ASM14920v2.dna.toplevel.fa.gz	Aspergillus nidulans FGSC A4
+5061	Aspergillus_niger.ASM285v2.dna.toplevel.fa.gz	Aspergillus niger
+380704	Aspergillus_niger_atcc_1015.ASPNI_v3.0.dna.toplevel.fa.gz	Aspergillus niger ATCC 1015
+5061	Aspergillus_niger_gca_001515345.ASM151534v1.dna.toplevel.fa.gz	Aspergillus niger
+1509407	Aspergillus_nomius_nrrl_13137.ASM120477v1.dna.toplevel.fa.gz	Aspergillus nomius NRRL 13137
+138278	Aspergillus_ochraceoroseus.ASM98666v1.dna.toplevel.fa.gz	Aspergillus ochraceoroseus
+1197718	Aspergillus_oryzae_100_8.Aspergillus_oryzae_100-8.dna.toplevel.fa.gz	Aspergillus oryzae 100-8
+1160506	Aspergillus_oryzae_3_042.AspOry3042.dna.toplevel.fa.gz	Aspergillus oryzae 3.042
+510516	Aspergillus_oryzae.ASM18445v3.dna.toplevel.fa.gz	Aspergillus oryzae RIB40
+5062	Aspergillus_oryzae_gca_002007945.ASM200794v1.dna.toplevel.fa.gz	Aspergillus oryzae
+1403190	Aspergillus_parasiticus_su_1.ASM95608v1.dna.toplevel.fa.gz	Aspergillus parasiticus SU-1
+308745	Aspergillus_rambellii.ASM98664v1.dna.toplevel.fa.gz	Aspergillus rambellii
+1388766	Aspergillus_ruber_cbs_135680.Eurhe1.dna.toplevel.fa.gz	Aspergillus ruber CBS 135680
+1036612	Aspergillus_sydowii_cbs_593_65.Aspsy1.dna.toplevel.fa.gz	Aspergillus sydowii CBS 593.65
+341663	Aspergillus_terreus.ASM14961v1.dna.toplevel.fa.gz	Aspergillus terreus NIH2624
+767770	Aspergillus_tubingensis_cbs_134_48.Asptu1.dna.toplevel.fa.gz	Aspergillus tubingensis CBS 134.48
+91492	Aspergillus_udagawae.Aud_assembly01.dna.toplevel.fa.gz	Aspergillus udagawae
+40382	Aspergillus_ustus.Austus1.0.dna.toplevel.fa.gz	Aspergillus ustus
+1036611	Aspergillus_versicolor_cbs_583_65.Aspve1.dna.toplevel.fa.gz	Aspergillus versicolor CBS 583.65
+1073089	Aspergillus_wentii_dto_134e9.Aspwe1.dna.toplevel.fa.gz	Aspergillus wentii DTO 134E9
+1043003	Aureobasidium_melanogenum_cbs_110374.Aureobasidium_pullulans_var._melanogenum_CBS_110374_v1.0.dna.toplevel.fa.gz	Aureobasidium melanogenum CBS 110374
+1043004	Aureobasidium_namibiae_cbs_147_97.Aureobasidium_pullulans_var._namibiae_CBS_147.97_v1.0.dna.toplevel.fa.gz	Aureobasidium namibiae CBS 147.97
+5580	Aureobasidium_pullulans.ASM167811v1.dna.toplevel.fa.gz	Aureobasidium pullulans
+1043002	Aureobasidium_pullulans_exf_150.Aureobasidium_pullulans_var._pullulans_EXF-150_assembly_version_1.0.dna.toplevel.fa.gz	Aureobasidium pullulans EXF-150
+1043005	Aureobasidium_subglaciale_exf_2481.Aureobasidium_pullulans_var._subglaciale_EXF-2481_v1.0.dna.toplevel.fa.gz	Aureobasidium subglaciale EXF-2481
+984486	Babjeviella_inositovora_nrrl_y_12698.Babin1.dna.toplevel.fa.gz	Babjeviella inositovora NRRL Y-12698
+684364	Batrachochytrium_dendrobatidis_jam81.v1.0.dna.toplevel.fa.gz	Batrachochytrium dendrobatidis JAM81
+403673	Batrachochytrium_dendrobatidis_jel423.BD_JEL423.dna.toplevel.fa.gz	Batrachochytrium dendrobatidis JEL423
+1357716	Batrachochytrium_salamandrivorans.Batr_sala_BS_V1.dna.toplevel.fa.gz	Batrachochytrium salamandrivorans
+717646	Baudoinia_panamericana_uamh_10762.Bauco1.dna.toplevel.fa.gz	Baudoinia panamericana UAMH 10762
+655819	Beauveria_bassiana_arsef_2860.ASM28067v1.dna.toplevel.fa.gz	Beauveria bassiana ARSEF 2860
+176275	Beauveria_bassiana.ASM168263v1.dna.toplevel.fa.gz	Beauveria bassiana
+1245745	Beauveria_bassiana_d1_5.BBA1.0.dna.toplevel.fa.gz	Beauveria bassiana D1-5
+665024	Bipolaris_maydis_atcc_48331.CocheC4_1.dna.toplevel.fa.gz	Bipolaris maydis ATCC 48331
+701091	Bipolaris_maydis_c5.CocheC5_3.dna.toplevel.fa.gz	Bipolaris maydis C5
+930090	Bipolaris_oryzae_atcc_44560.Cochliobolus_miyabeanus_v1.0.dna.toplevel.fa.gz	Bipolaris oryzae ATCC 44560
+665912	Bipolaris_sorokiniana_nd90pr.Cocsa1.dna.toplevel.fa.gz	Bipolaris sorokiniana ND90Pr
+930091	Bipolaris_victoriae_fi3.Cochliobolus_victoriae_v1.0.dna.toplevel.fa.gz	Bipolaris victoriae FI3
+930089	Bipolaris_zeicola_26_r_13.Cochliobolus_carbonum_v1.0.dna.toplevel.fa.gz	Bipolaris zeicola 26-R-13
+653446	Blastomyces_dermatitidis_atcc_18188.BD_ATCC18188_V1.dna.toplevel.fa.gz	Blastomyces dermatitidis ATCC 18188
+447095	Blastomyces_dermatitidis_atcc_26199.BD_ATCC26199_V2.dna.toplevel.fa.gz	Blastomyces dermatitidis ATCC 26199
+559297	Blastomyces_dermatitidis_er_3.BD_ER3_V1.dna.toplevel.fa.gz	Blastomyces dermatitidis ER-3
+559298	Blastomyces_gilchristii_slh14081.BD_SLH14081_V1.dna.toplevel.fa.gz	Blastomyces gilchristii SLH14081
+1658174	Blastomyces_percursus.Blas_perc_EI222_V1.dna.toplevel.fa.gz	Blastomyces percursus
+546991	Blumeria_graminis.EF2.dna.toplevel.fa.gz	Blumeria graminis f. sp. hordei DH14
+1268274	Blumeria_graminis_f_sp_tritici_96224.Bgt_454_newbler_assembly.dna.toplevel.fa.gz	Blumeria graminis f. sp. tritici 96224
+930990	Botryobasidium_botryosum_fd_172_ss1.Botbo1.dna.toplevel.fa.gz	Botryobasidium botryosum FD-172 SS1
+332648	Botrytis_cinerea.ASM83294v1.dna.toplevel.fa.gz	Botrytis cinerea B05.10
+1290391	Botrytis_cinerea_bcdw1.BcDW1.dna.toplevel.fa.gz	Botrytis cinerea BcDW1
+999810	Botrytis_cinerea_t4.BotFuc_Mar2011.dna.toplevel.fa.gz	Botrytis cinerea T4
+1124627	Brettanomyces_bruxellensis_awri1499.AWRI1499_v1.0.dna.toplevel.fa.gz	Brettanomyces bruxellensis AWRI1499
+1356009	Byssochlamys_spectabilis_no_5.PVAR5_assembly01.dna.toplevel.fa.gz	Byssochlamys spectabilis No. 5
+1353952	Calocera_cornea_hhb12733.Calco1.dna.toplevel.fa.gz	Calocera cornea HHB12733
+1330018	Calocera_viscosa_tufc12733.Calvi1.dna.toplevel.fa.gz	Calocera viscosa TUFC12733
+1094981	Candida_albicans_12c.Cand_albi_12C_V2.dna.toplevel.fa.gz	Candida albicans 12C
+1094987	Candida_albicans_19f.Cand_albi_19F_V2.dna.toplevel.fa.gz	Candida albicans 19F
+1165368	Candida_albicans_ca6.Cand_albi_Ca6_V2.dna.toplevel.fa.gz	Candida albicans Ca6
+1094988	Candida_albicans_gc75.Cand_albi_GC75_V1.dna.toplevel.fa.gz	Candida albicans GC75
+1094982	Candida_albicans_l26.Cand_albi_L26_V2.dna.toplevel.fa.gz	Candida albicans L26
+1094991	Candida_albicans_p34048.Cand_albi_P34048_V1.dna.toplevel.fa.gz	Candida albicans P34048
+1094985	Candida_albicans_p37005.Cand_albi_P37005_V2.dna.toplevel.fa.gz	Candida albicans P37005
+1094992	Candida_albicans_p37037.Cand_albi_P37037_V1.dna.toplevel.fa.gz	Candida albicans P37037
+1094993	Candida_albicans_p37039.Cand_albi_P37039_V1.dna.toplevel.fa.gz	Candida albicans P37039
+1094996	Candida_albicans_p57055.Cand_albi_P57055_V1.dna.toplevel.fa.gz	Candida albicans P57055
+1094990	Candida_albicans_p57072.Cand_albi_P57072_V1.dna.toplevel.fa.gz	Candida albicans P57072
+1094986	Candida_albicans_p60002.Cand_albi_P60002_V1.dna.toplevel.fa.gz	Candida albicans P60002
+1094994	Candida_albicans_p75010.Cand_albi_P75010_V1.dna.toplevel.fa.gz	Candida albicans P75010
+1094995	Candida_albicans_p75016.Cand_albi_P75016_V1.dna.toplevel.fa.gz	Candida albicans P75016
+1094997	Candida_albicans_p75063.Cand_albi_P75063_V1.dna.toplevel.fa.gz	Candida albicans P75063
+1094998	Candida_albicans_p76055.Cand_albi_P76055_V1.dna.toplevel.fa.gz	Candida albicans P76055
+1094999	Candida_albicans_p76067.Cand_albi_P76067_V1.dna.toplevel.fa.gz	Candida albicans P76067
+1095000	Candida_albicans_p78042.Cand_albi_P78042_V1.dna.toplevel.fa.gz	Candida albicans P78042
+1094989	Candida_albicans_p78048.Cand_albi_P78048_V1.dna.toplevel.fa.gz	Candida albicans P78048
+1094984	Candida_albicans_p87.Cand_albi_P87_V2.dna.toplevel.fa.gz	Candida albicans P87
+1094983	Candida_albicans_p94015.Cand_albi_P94015_V1.dna.toplevel.fa.gz	Candida albicans P94015
+237561	Candida_albicans_sc5314.Cand_albi_SC5314_V4.dna.toplevel.fa.gz	Candida albicans SC5314
+237561	Candida_albicans_sc5314_gca_000182965.ASM18296v3.dna.toplevel.fa.gz	Candida albicans SC5314
+237561	Candida_albicans_sc5314_gca_000784655.Cand_albi_SC5314_V3.dna.toplevel.fa.gz	Candida albicans SC5314
+294748	Candida_albicans_wo_1.ASM14944v2.dna.toplevel.fa.gz	Candida albicans WO-1
+983967	Candida_arabinofermentans_nrrl_yb_2248.Canar1.dna.toplevel.fa.gz	[Candida] arabinofermentans NRRL YB-2248
+498019	_candida_auris.ASM118947v1.dna.toplevel.fa.gz	[Candida] auris
+573826	Candida_dubliniensis_cd36.ASM2694v1.dna.toplevel.fa.gz	Candida dubliniensis CD36
+5478	_candida_glabrata.ASM254v2.dna.toplevel.fa.gz	[Candida] glabrata
+5478	_candida_glabrata_gca_001466525.ASM146652v1.dna.toplevel.fa.gz	[Candida] glabrata
+5478	_candida_glabrata_gca_001466535.ASM146653v1.dna.toplevel.fa.gz	[Candida] glabrata
+5478	_candida_glabrata_gca_001466565.ASM146656v1.dna.toplevel.fa.gz	[Candida] glabrata
+5478	_candida_glabrata_gca_001466575.ASM146657v1.dna.toplevel.fa.gz	[Candida] glabrata
+5478	_candida_glabrata_gca_001466635.ASM146663v1.dna.toplevel.fa.gz	[Candida] glabrata
+5478	_candida_glabrata_gca_001466685.ASM146668v1.dna.toplevel.fa.gz	[Candida] glabrata
+45354	_candida_intermedia.CBS_141442_assembly.dna.toplevel.fa.gz	[Candida] intermedia
+45354	_candida_intermedia_gca_900106125.PYCC_4715_assembly.dna.toplevel.fa.gz	[Candida] intermedia
+1245528	Candida_maltosa_xu316.Cmaltosa_v01.dna.toplevel.fa.gz	Candida maltosa Xu316
+1136231	Candida_orthopsilosis_co_90_125.ASM31587v1.dna.toplevel.fa.gz	Candida orthopsilosis Co 90-125
+5480	Candida_parapsilosis_cdc317.ASM18276v2.dna.toplevel.fa.gz	Candida parapsilosis
+984487	Candida_tanzawaensis_nrrl_y_17324.Canta1.dna.toplevel.fa.gz	Suhomyces tanzawaensis NRRL Y-17324
+590646	_candida_tenuis_atcc_10573.Candida_tenuis_v1.0.dna.toplevel.fa.gz	Yamadazyma tenuis ATCC 10573
+294747	Candida_tropicalis_mya_3404.ASM633v2.dna.toplevel.fa.gz	Candida tropicalis MYA-3404
+1182541	Capronia_coronata_cbs_617_96.Capr_coro_CBS_617_96_V1.dna.toplevel.fa.gz	Capronia coronata CBS 617.96
+1182542	Capronia_epimyces_cbs_606_96.Capr_epim_CBS_606_96_V1.dna.toplevel.fa.gz	Capronia epimyces CBS 606.96
+401625	Ceraceosorus_bombacis.Ceraceosorus_bombacis.dna.toplevel.fa.gz	Ceraceosorus bombacis
+88771	Ceratocystis_platani.ASM97888v1.dna.toplevel.fa.gz	Ceratocystis platani
+306901	Chaetomium_globosum_cbs_148_51.ASM14336v1.dna.toplevel.fa.gz	Chaetomium globosum CBS 148.51
+759272	Chaetomium_thermophilum_var_thermophilum_dsm_1495.CTHT_3.0.dna.toplevel.fa.gz	Chaetomium thermophilum var. thermophilum DSM 1495
+101091	Choanephora_cucurbitarum.ASM168372v1.dna.toplevel.fa.gz	Choanephora cucurbitarum
+1442370	Cladophialophora_bantiana_cbs_173_52.Clad_bant_CBS_173_52_V1.dna.toplevel.fa.gz	Cladophialophora bantiana CBS 173.52
+86049	Cladophialophora_carrionii.ASM170077v1.dna.toplevel.fa.gz	Cladophialophora carrionii
+1279043	Cladophialophora_carrionii_cbs_160_54.Clad_carr_CBS_160_54_V1.dna.toplevel.fa.gz	Cladophialophora carrionii CBS 160.54
+569365	Cladophialophora_immunda.Clad_immu_CBS83496_V1.dna.toplevel.fa.gz	Cladophialophora immunda
+1182543	Cladophialophora_psammophila_cbs_110553.Clad_psam_CBS_110553_V1.dna.toplevel.fa.gz	Cladophialophora psammophila CBS 110553
+1182544	Cladophialophora_yegresii_cbs_114405.Clad_yegr_CBS_114405_V1.dna.toplevel.fa.gz	Cladophialophora yegresii CBS 114405
+1111077	Claviceps_purpurea_20_1.ASM34735v1.dna.toplevel.fa.gz	Claviceps purpurea 20.1
+306902	Clavispora_lusitaniae_atcc_42720.ASM383v1.dna.toplevel.fa.gz	Clavispora lusitaniae ATCC 42720
+396776	Coccidioides_immitis_h538_4.ASM14981v1.dna.toplevel.fa.gz	Coccidioides immitis H538.4
+404692	Coccidioides_immitis_rmscc_2394.ASM14989v1.dna.toplevel.fa.gz	Coccidioides immitis RMSCC 2394
+454286	Coccidioides_immitis_rmscc_3703.ASM15008v1.dna.toplevel.fa.gz	Coccidioides immitis RMSCC 3703
+246410	Coccidioides_immitis_rs.ASM14933v2.dna.toplevel.fa.gz	Coccidioides immitis RS
+222929	Coccidioides_posadasii_c735_delta_sowgp.JCVI-cpa1-1.0.dna.toplevel.fa.gz	Coccidioides posadasii C735 delta SOWgp
+454284	Coccidioides_posadasii_rmscc_3488.ASM15005v1.dna.toplevel.fa.gz	Coccidioides posadasii RMSCC 3488
+443226	Coccidioides_posadasii_str_silveira.CPS2.dna.toplevel.fa.gz	Coccidioides posadasii str. Silveira
+708187	Colletotrichum_chlorophyti.ASM193710v1.dna.toplevel.fa.gz	Colletotrichum chlorophyti
+1445577	Colletotrichum_fioriniae_pj7.CFIO01.dna.toplevel.fa.gz	Colletotrichum fioriniae PJ7
+1237896	Colletotrichum_gloeosporioides_cg_14.Colletotrichum_gloeosporioides1.dna.toplevel.fa.gz	Colletotrichum gloeosporioides Cg-14
+1213859	Colletotrichum_gloeosporioides.GCA_000319635.1.dna.toplevel.fa.gz	Colletotrichum fructicola Nara gc5
+645133	Colletotrichum_graminicola.C_graminicola_M1_001_V1.dna.toplevel.fa.gz	Colletotrichum graminicola M1.001
+80884	Colletotrichum_higginsianum.GCA_000313795.2.dna.toplevel.fa.gz	Colletotrichum higginsianum
+759273	Colletotrichum_higginsianum_imi_349063.ASM167251v1.dna.toplevel.fa.gz	Colletotrichum higginsianum IMI 349063
+1573173	Colletotrichum_incanum.Ci238704v1.dna.toplevel.fa.gz	Colletotrichum incanum
+1573173	Colletotrichum_incanum_gca_001855235.ASM185523v1.dna.toplevel.fa.gz	Colletotrichum incanum
+1460502	Colletotrichum_nymphaeae_sa_01.CNYM01.dna.toplevel.fa.gz	Colletotrichum nymphaeae SA-01
+1213857	Colletotrichum_orbiculare.GCA_000350065.1.dna.toplevel.fa.gz	Colletotrichum orbiculare MAFF 240422
+1209926	Colletotrichum_orchidophilum.CORC01.dna.toplevel.fa.gz	Colletotrichum orchidophilum
+1209931	Colletotrichum_salicis.CSAL01.dna.toplevel.fa.gz	Colletotrichum salicis
+703756	Colletotrichum_simmondsii.CSIM01.dna.toplevel.fa.gz	Colletotrichum simmondsii
+1173701	Colletotrichum_sublineola.ASM69613v1.dna.toplevel.fa.gz	Colletotrichum sublineola
+708197	Colletotrichum_tofieldiae.Ct0861v1.dna.toplevel.fa.gz	Colletotrichum tofieldiae
+796925	Conidiobolus_coronatus_nrrl_28638.Conidiobolus_coronatus_NRRL28638.dna.toplevel.fa.gz	Conidiobolus coronatus NRRL 28638
+1408157	Coniochaeta_ligniaria_nrrl_30616.Conlig_v1.0.dna.toplevel.fa.gz	Coniochaeta ligniaria NRRL 30616
+741705	Coniophora_puteana_rwd_64_598_ss2.Conpu1.dna.toplevel.fa.gz	Coniophora puteana RWD-64-598 SS2
+1168221	Coniosporium_apollinis_cbs_100218.Coni_apol_CBS100218_V1.dna.toplevel.fa.gz	Coniosporium apollinis CBS 100218
+240176	Coprinopsis_cinerea_okayama7_130.CC3.dna.toplevel.fa.gz	Coprinopsis cinerea okayama7#130
+1081107	Cordyceps_brongniartii_rcef_3172.BBO_1.0.dna.toplevel.fa.gz	Cordyceps brongniartii RCEF 3172
+1105325	Cordyceps_confragosa.ASM165321v1.dna.toplevel.fa.gz	Cordyceps confragosa
+1081108	Cordyceps_confragosa_rcef_1005.LEL_1.0.dna.toplevel.fa.gz	Cordyceps confragosa RCEF 1005
+983644	Cordyceps_militaris_cm01.CmilitarisCM01_v01.dna.toplevel.fa.gz	Cordyceps militaris CM01
+1295533	Cryptococcus_amylolentus_cbs_6039.Cryp_amyl_CBS6039_V3.dna.toplevel.fa.gz	Cryptococcus amylolentus CBS 6039
+1296118	Cryptococcus_amylolentus_cbs_6273.Cryp_amyl_CBS6273_V2.dna.toplevel.fa.gz	Cryptococcus amylolentus CBS 6273
+1295531	Cryptococcus_depauperatus_cbs_7841.Filo_depa_CBS7841_V1.dna.toplevel.fa.gz	Cryptococcus depauperatus CBS 7841
+1295532	Cryptococcus_depauperatus_cbs_7855.Filo_depa_CBS7855_V2.dna.toplevel.fa.gz	Cryptococcus depauperatus CBS 7855
+1296109	Cryptococcus_gattii_ca1280.Cryp_gatt_CA1280_V1.dna.toplevel.fa.gz	Cryptococcus gattii CA1280
+1296111	Cryptococcus_gattii_ca1873.Cryp_gatt_CA1873_V1.dna.toplevel.fa.gz	Cryptococcus gattii CA1873
+1296102	Cryptococcus_gattii_e566.Cryp_gatt_E566_V1.dna.toplevel.fa.gz	Cryptococcus gattii E566
+1296103	Cryptococcus_gattii_ejb2.Cryp_gatt_EJB2_V1.dna.toplevel.fa.gz	Cryptococcus gattii EJB2
+1296108	Cryptococcus_gattii_nt_10.Cryp_gatt_NT-10_V1.dna.toplevel.fa.gz	Cryptococcus gattii NT-10
+1296112	Cryptococcus_gattii_ru294.Cryp_gatt_Ru294_V1.dna.toplevel.fa.gz	Cryptococcus gattii Ru294
+1334442	Cryptococcus_gattii_vgii_2001_935_1.Cryp_gatt_2001_935-1_V1.dna.toplevel.fa.gz	Cryptococcus gattii VGII 2001/935-1
+1296104	Cryptococcus_gattii_vgii_99_473.Cryp_gatt_99_473_V1.dna.toplevel.fa.gz	Cryptococcus gattii VGII 99/473
+1296107	Cryptococcus_gattii_vgii_ca1014.Cryp_gatt_CA1014_V1.dna.toplevel.fa.gz	Cryptococcus gattii VGII CA1014
+1296101	Cryptococcus_gattii_vgii_cbs_10090.Cryp_gatt_CBS10090_V1.dna.toplevel.fa.gz	Cryptococcus gattii VGII CBS 10090
+1296106	Cryptococcus_gattii_vgii_la55.Cryp_gatt_LA55_V1.dna.toplevel.fa.gz	Cryptococcus gattii VGII LA55
+1296117	Cryptococcus_gattii_vgii_mmrl2647.Cryp_gatt_MMRL2647_V2.dna.toplevel.fa.gz	Cryptococcus gattii VGII MMRL2647
+294750	Cryptococcus_gattii_vgii_r265.CNB2.dna.toplevel.fa.gz	Cryptococcus gattii VGII R265
+1296110	Cryptococcus_gattii_vgii_ram5.Cryp_gatt_Ram5_V1.dna.toplevel.fa.gz	Cryptococcus gattii VGII Ram5
+1296105	Cryptococcus_gattii_vgiv_ind107.Cryp_gatt_IND107_V2.dna.toplevel.fa.gz	Cryptococcus gattii VGIV IND107
+367775	Cryptococcus_gattii_wm276.ASM18594v1.dna.toplevel.fa.gz	Cryptococcus gattii WM276
+214684	Cryptococcus_neoformans.ASM9104v1.dna.toplevel.fa.gz	Cryptococcus neoformans var. neoformans JEC21
+235443	Cryptococcus_neoformans_var_grubii_h99.CNA3.dna.toplevel.fa.gz	Cryptococcus neoformans var. grubii H99
+283643	Cryptococcus_neoformans_var_neoformans_b_3501a.ASM14938v1.dna.toplevel.fa.gz	Cryptococcus neoformans var. neoformans B-3501A
+879819	Cutaneotrichosporon_oleaginosus.Triol1.dna.toplevel.fa.gz	Cutaneotrichosporon oleaginosum
+36022	Cyberlindnera_fabianii.ASM198330v1.dna.toplevel.fa.gz	Cyberlindnera fabianii
+4903	Cyberlindnera_jadinii.cj1.dna.toplevel.fa.gz	Cyberlindnera jadinii
+983966	Cyberlindnera_jadinii_nrrl_y_1542.Cybja1.dna.toplevel.fa.gz	Cyberlindnera jadinii NRRL Y-1542
+1314674	Cylindrobasidium_torrendii_fp15055_ss_10.Cylto1.dna.toplevel.fa.gz	Cylindrobasidium torrendii FP15055 ss-10
+1220924	Cyphellophora_europaea_cbs_101466.Phia_euro_CBS_101466_V1.dna.toplevel.fa.gz	Cyphellophora europaea CBS 101466
+1858805	Dacryopinax_primogenitus.Dacryopinax_sp._DJM_731_SSP1_v1.0.dna.toplevel.fa.gz	Dacryopinax primogenitus
+1284197	Dactylellina_haptotyla_cbs_200_50.MHA_v2.dna.toplevel.fa.gz	Dactylellina haptotyla CBS 200.50
+1314783	Daedalea_quercina_l_15889.Daequ1.dna.toplevel.fa.gz	Daedalea quercina L-15889
+58627	Debaryomyces_fabryi.debFab1.0.dna.toplevel.fa.gz	Debaryomyces fabryi
+284592	Debaryomyces_hansenii_cbs767.ASM644v2.dna.toplevel.fa.gz	Debaryomyces hansenii CBS767
+1214573	Diaporthe_ampelina.UCDDA912v1.0.dna.toplevel.fa.gz	Diaporthe ampelina
+158607	Diaporthe_helianthi.ASM170239v1.dna.toplevel.fa.gz	Diaporthe helianthi
+732165	Dichomitus_squalens_lyad_421_ss1.Dichomitus_squalens_v1.0.dna.toplevel.fa.gz	Dichomitus squalens LYAD-421 SS1
+236234	Diplodia_corticola.ASM188384v1.dna.toplevel.fa.gz	Diplodia corticola
+420778	Diplodia_seriata_gca_001975905.Dipser_v1.dna.toplevel.fa.gz	Diplodia seriata
+420778	Diplodia_seriata.UCDDS831v0.1.dna.toplevel.fa.gz	Diplodia seriata
+675120	Dothistroma_septosporum.GCA_000340195.1.dna.toplevel.fa.gz	Dothistroma septosporum NZE10
+98403	Drechmeria_coniospora.ASM162519v1.dna.toplevel.fa.gz	Drechmeria coniospora
+1043628	Drechslerella_stenobrocha_248.DREv1.dna.toplevel.fa.gz	Drechslerella stenobrocha 248
+1003232	Edhazardia_aedis_usnm_41457.Edha_aedis_V4b.dna.toplevel.fa.gz	Edhazardia aedis USNM 41457
+1447872	Emergomyces_pasteuriana_ep9510.Emmo_past_UAMH9510_V1.dna.toplevel.fa.gz	Emergomyces pasteurianus Ep9510
+1247875	Emmonsia_crescens_uamh_3008.ASM100828v1.dna.toplevel.fa.gz	Emmonsia crescens UAMH 3008
+1246674	Emmonsia_parva_uamh_139.ASM101475v1.dna.toplevel.fa.gz	Emmonsia parva UAMH 139
+1658172	Emmonsia_sp_cac_2015a.Emmo_afri_EA111.dna.toplevel.fa.gz	Emmonsia sp. CAC-2015a
+1355160	Encephalitozoon_cuniculi_ecuniii_l.ECIIIL.dna.toplevel.fa.gz	Encephalitozoon cuniculi EcunIII-L
+284813	Encephalitozoon_cuniculi_gb_m1.ASM9122v1.dna.toplevel.fa.gz	Encephalitozoon cuniculi GB-M1
+907965	Encephalitozoon_hellem_atcc_50504.ASM27781v3.dna.toplevel.fa.gz	Encephalitozoon hellem ATCC 50504
+876142	Encephalitozoon_intestinalis_atcc_50506.ASM14646v1.dna.toplevel.fa.gz	Encephalitozoon intestinalis ATCC 50506
+1178016	Encephalitozoon_romaleae_sj_2008.ASM28003v2.dna.toplevel.fa.gz	Encephalitozoon romaleae SJ-2008
+1263415	Endocarpon_pusillum_z07020.EPUS.dna.toplevel.fa.gz	Endocarpon pusillum Z07020
+481877	Enterocytozoon_bieneusi_h348.ASM20948v1.dna.toplevel.fa.gz	Enterocytozoon bieneusi H348
+646526	Enterocytozoon_hepatopenaei.ASM208167v1.dna.toplevel.fa.gz	Enterocytozoon hepatopenaei
+1081671	Enterospora_canceri.ASM208791v1.dna.toplevel.fa.gz	Enterospora canceri
+931890	Eremothecium_cymbalariae_dbvpg_7215.ASM23536v1.dna.toplevel.fa.gz	Eremothecium cymbalariae DBVPG#7215
+1034331	Eremothecium_gossypii_fdag1.ASM96883v1.dna.toplevel.fa.gz	Eremothecium gossypii FDAG1
+45286	Eremothecium_sinecaudum.ASM154855v1.dna.toplevel.fa.gz	Eremothecium sinecaudum
+52586	Erysiphe_necator.ASM79871v1.dna.toplevel.fa.gz	Erysiphe necator
+150374	Escovopsis_weberi.ASM127849v1.dna.toplevel.fa.gz	Escovopsis weberi
+1287681	Eutypa_lata_ucrel1.UCREL1V03.dna.toplevel.fa.gz	Eutypa lata UCREL1
+1314781	Exidia_glandulosa_hhb12029.Exigl1.dna.toplevel.fa.gz	Exidia glandulosa HHB12029
+1182545	Exophiala_aquamarina_cbs_119918.Exop_aqua_CBS_119918_V1.dna.toplevel.fa.gz	Exophiala aquamarina CBS 119918
+858893	Exophiala_dermatitidis_nih_ut8656.Exop_derm_V1.dna.toplevel.fa.gz	Exophiala dermatitidis NIH/UT8656
+212818	Exophiala_mesophila.Exop_meso_CBS40295_V1.dna.toplevel.fa.gz	Exophiala mesophila
+215243	Exophiala_oligosperma.Exop_olig_CBS72588_V1.dna.toplevel.fa.gz	Exophiala oligosperma
+1016849	Exophiala_sideris.Exop_side_CBS121828_V1.dna.toplevel.fa.gz	Exophiala sideris
+91928	Exophiala_spinifera.Exop_spin_CBS89968_V1.dna.toplevel.fa.gz	Exophiala spinifera
+348802	Exophiala_xenobiotica.Exop_xeno_CBS118157_V1.dna.toplevel.fa.gz	Exophiala xenobiotica
+599839	Fibroporia_radiculosa.ASM31352v1.dna.toplevel.fa.gz	Fibroporia radiculosa
+436010	Fibulorhizoctonia_sp_cbs_109695.Fibsp1.dna.toplevel.fa.gz	Fibularhizoctonia sp. CBS 109695
+1128425	Fistulina_hepatica_atcc_64428.Fishe1.dna.toplevel.fa.gz	Fistulina hepatica ATCC 64428
+694068	Fomitiporia_mediterranea_mf3_22.Fomme1.dna.toplevel.fa.gz	Fomitiporia mediterranea MF3/22
+743788	Fomitopsis_pinicola_fp_58527_ss1.Fompi3.dna.toplevel.fa.gz	Fomitopsis pinicola FP-58527 SS1
+1367422	Fonsecaea_erecta.ASM165198v1.dna.toplevel.fa.gz	Fonsecaea erecta
+254056	Fonsecaea_monophora.ASM164247v1.dna.toplevel.fa.gz	Fonsecaea monophora
+979981	Fonsecaea_multimorphosa.ASM164698v1.dna.toplevel.fa.gz	Fonsecaea multimorphosa
+1442371	Fonsecaea_multimorphosa_cbs_102226.Fons_mult_CBS_102226_V1.dna.toplevel.fa.gz	Fonsecaea multimorphosa CBS 102226
+856822	Fonsecaea_nubica.ASM164696v1.dna.toplevel.fa.gz	Fonsecaea nubica
+1442368	Fonsecaea_pedrosoi_cbs_271_37.Fons_pedr_CBS_271_37_V1.dna.toplevel.fa.gz	Fonsecaea pedrosoi CBS 271.37
+1318462	Fusarium_culmorum.EF1.dna.toplevel.fa.gz	Fusarium culmorum CS7071
+5127	Fusarium_fujikuroi.EF1.dna.toplevel.fa.gz	Fusarium fujikuroi
+5127	Fusarium_fujikuroi_gca_001023035.ASM102303v1.dna.toplevel.fa.gz	Fusarium fujikuroi
+5127	Fusarium_fujikuroi_gca_001023045.ASM102304v1.dna.toplevel.fa.gz	Fusarium fujikuroi
+5127	Fusarium_fujikuroi_gca_001023065.ASM102306v1.dna.toplevel.fa.gz	Fusarium fujikuroi
+5518	Fusarium_graminearum_gca_000599445.CS3005v1.dna.toplevel.fa.gz	Fusarium graminearum
+5518	Fusarium_graminearum.RR1.dna.toplevel.fa.gz	Fusarium graminearum
+179993	Fusarium_langsethiae.ASM129263v1.dna.toplevel.fa.gz	Fusarium langsethiae
+192010	Fusarium_mangiferae.Genome_assembly_version_1.dna.toplevel.fa.gz	Fusarium mangiferae
+426428	Fusarium_oxysporum.FO2.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. lycopersici 4287
+660027	Fusarium_oxysporum_fo47.FO_Fo47_V1.dna.toplevel.fa.gz	Fusarium oxysporum Fo47
+909455	Fusarium_oxysporum_fosc_3_a.FO_FOSC_3_a_V1.dna.toplevel.fa.gz	Fusarium oxysporum FOSC 3-a
+1089457	Fusarium_oxysporum_f_sp_conglutinans_race_2_54008.FO_PHW808_V1.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. conglutinans race 2 54008
+1229664	Fusarium_oxysporum_f_sp_cubense_race_1.Foc1_1.0.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. cubense race 1
+1229665	Fusarium_oxysporum_f_sp_cubense_race_4.Foc4_1.0.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. cubense race 4
+1089451	Fusarium_oxysporum_f_sp_cubense_tropical_race_4_54006.FO_II5_V1.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. cubense tropical race 4 54006
+1080343	Fusarium_oxysporum_f_sp_lycopersici_mn25.FO_MN25_V1.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. lycopersici MN25
+1089452	Fusarium_oxysporum_f_sp_melonis_26406.FO_melonis_V1.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. melonis 26406
+1080344	Fusarium_oxysporum_f_sp_pisi_hdv247.FO_HDV247_V1.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. pisi HDV247
+1089448	Fusarium_oxysporum_f_sp_radicis_lycopersici_26381.FO_CL57_V1.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. radicis-lycopersici 26381
+1089458	Fusarium_oxysporum_f_sp_raphani_54005.FO_PHW815_V1.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. raphani 54005
+1089449	Fusarium_oxysporum_f_sp_vasinfectum_25433.FO_Cotton_V1.dna.toplevel.fa.gz	Fusarium oxysporum f. sp. vasinfectum 25433
+36050	Fusarium_poae.FPOA1.0.dna.toplevel.fa.gz	Fusarium poae
+1227346	Fusarium_proliferatum_et1.F._proliferatum_ET1_version_1.dna.toplevel.fa.gz	Fusarium proliferatum ET1
+948311	Fusarium_proliferatum.F._proliferatum_NRRL62905_version_1.dna.toplevel.fa.gz	Fusarium proliferatum
+1028729	Fusarium_pseudograminearum.GCA_000303195.1.dna.toplevel.fa.gz	Fusarium pseudograminearum CS3096
+660122	Fusarium_solani.v2.0.dna.toplevel.fa.gz	[Nectria] haematococca mpVI 77-13-4
+334819	Fusarium_verticillioides.ASM14955v1.dna.toplevel.fa.gz	Fusarium verticillioides 7600
+644352	Gaeumannomyces_graminis.Gae_graminis_V2.dna.toplevel.fa.gz	Gaeumannomyces tritici R3-111a-1
+685588	Galerina_marginata_cbs_339_88.Galma1.dna.toplevel.fa.gz	Galerina marginata CBS 339.88
+914234	Gelatoporia_subvermispora_b.Ceriporiopsis_subvermispora_B_v1.0.dna.toplevel.fa.gz	Gelatoporia subvermispora B
+1173061	Geotrichum_candidum.New2.3_08062011.dna.toplevel.fa.gz	Galactomyces candidus
+1104152	Glarea_lozoyensis_74030.LBAGla_1.0.dna.toplevel.fa.gz	Glarea lozoyensis 74030
+1116229	Glarea_lozoyensis_atcc_20868.GLAREA.dna.toplevel.fa.gz	Glarea lozoyensis ATCC 20868
+670483	Gloeophyllum_trabeum_atcc_11539.Glotr1_1.dna.toplevel.fa.gz	Gloeophyllum trabeum ATCC 11539
+1344416	Gonapodya_prolifera_jel478.Ganpr1.dna.toplevel.fa.gz	Gonapodya prolifera JEL478
+5627	Grifola_frondosa.ASM168373v1.dna.toplevel.fa.gz	Grifola frondosa
+655863	Grosmannia_clavigera_kw1407.Sanger-454-IlluminaPA_2.0.dna.toplevel.fa.gz	Grosmannia clavigera kw1407
+944289	Gymnopus_luxurians_fd_317_m1.Gymlu1.dna.toplevel.fa.gz	Gymnopus luxurians FD-317 M1
+56406	Hanseniaspora_guilliermondii.version_1.dna.toplevel.fa.gz	Hanseniaspora guilliermondii
+211096	Hanseniaspora_opuntiae.ASM174979v1.dna.toplevel.fa.gz	Hanseniaspora opuntiae
+56408	Hanseniaspora_osmophila.ASM174704v1.dna.toplevel.fa.gz	Hanseniaspora osmophila
+29833	Hanseniaspora_uvarum.ASM174705v1.dna.toplevel.fa.gz	Hanseniaspora uvarum
+1246595	Hanseniaspora_uvarum_dsm_2768.Huva2.0.dna.toplevel.fa.gz	Hanseniaspora uvarum DSM 2768
+766949	Hanseniaspora_valbyensis_nrrl_y_1626.Hanva1_1.dna.toplevel.fa.gz	Hanseniaspora valbyensis NRRL Y-1626
+686832	Hebeloma_cylindrosporum_h7.Hebeloma_cylindrosporum_h7_v2.0.dna.toplevel.fa.gz	Hebeloma cylindrosporum h7
+1081669	Hepatospora_eriocheir.ASM208787v1.dna.toplevel.fa.gz	Hepatospora eriocheir
+1081669	Hepatospora_eriocheir_gca_002087885.ASM208788v1.dna.toplevel.fa.gz	Hepatospora eriocheir
+747525	Heterobasidion_irregulare_tc_32_1.Heterobasidion_irregulare_v2.0.dna.toplevel.fa.gz	Heterobasidion irregulare TC 32-1
+1043627	Hirsutella_minnesotensis_3608.ASM95604v1.dna.toplevel.fa.gz	Hirsutella minnesotensis 3608
+447093	Histoplasma_capsulatum_g186ar.ASM15011v1.dna.toplevel.fa.gz	Histoplasma capsulatum G186AR
+544712	Histoplasma_capsulatum_h143.ASM15103v1.dna.toplevel.fa.gz	Histoplasma capsulatum H143
+544711	Histoplasma_capsulatum_h88.ASM15100v2.dna.toplevel.fa.gz	Histoplasma capsulatum H88
+339724	Histoplasma_capsulatum_nam1.ASM14958v1.dna.toplevel.fa.gz	Histoplasma capsulatum NAm1
+994086	Hydnomerulius_pinastri_md_312.Hydpi2.dna.toplevel.fa.gz	Hydnomerulius pinastri MD-312
+945553	Hypholoma_sublateritium_fd_334_ss_4.Hypsu1.dna.toplevel.fa.gz	Hypholoma sublateritium FD-334 SS-4
+984485	Hyphopichia_burtonii_nrrl_y_1933.Hypbu1.dna.toplevel.fa.gz	Hyphopichia burtonii NRRL Y-1933
+39966	Hypsizygus_marmoreus.ASM160531v1.dna.toplevel.fa.gz	Hypsizygus marmoreus
+1081104	Isaria_fumosorosea_arsef_2679.ISF_1.0.dna.toplevel.fa.gz	Cordyceps fumosorosea ARSEF 2679
+933084	Jaapia_argillacea_mucl_33604.Jaaar1.dna.toplevel.fa.gz	Jaapia argillacea MUCL 33604
+1365824	Kalmanozyma_brasiliensis_ghg001.PSEUBRA1.dna.toplevel.fa.gz	Kalmanozyma brasiliensis GHG001
+1071382	Kazachstania_africana_cbs_2517.Ka_CBS2517.dna.toplevel.fa.gz	Kazachstania africana CBS 2517
+1071383	Kazachstania_naganishii_cbs_8797.ASM34898v1.dna.toplevel.fa.gz	Kazachstania naganishii CBS 8797
+28985	Kluyveromyces_lactis.ASM251v1.dna.toplevel.fa.gz	Kluyveromyces lactis
+1003335	Kluyveromyces_marxianus_dmku3_1042.Kmar_1.0.dna.toplevel.fa.gz	Kluyveromyces marxianus DMKU3-1042
+4911	Kluyveromyces_marxianus.KM1777_03.dna.toplevel.fa.gz	Kluyveromyces marxianus
+644223	Komagataella_pastoris.GCA_000027005.1.dna.toplevel.fa.gz	Komagataella phaffii GS115
+4922	Komagataella_pastoris_gca_001708105.ASM170810v1.dna.toplevel.fa.gz	Komagataella pastoris
+460519	Komagataella_phaffii.ASM170808v1.dna.toplevel.fa.gz	Komagataella phaffii
+981350	Komagataella_phaffii_cbs_7435.PicPas_Mar2011.dna.toplevel.fa.gz	Komagataella phaffii CBS 7435
+644223	Komagataella_phaffii_gs115.ASM174695v1.dna.toplevel.fa.gz	Komagataella phaffii GS115
+1382522	Kuraishia_capsulata_cbs_1993.AUH_PRJEB4427_v1.dna.toplevel.fa.gz	Kuraishia capsulata CBS 1993
+1296100	Kwoniella_bestiolae_cbs_10118.Cryp_best_CBS10118_V1.dna.toplevel.fa.gz	Kwoniella bestiolae CBS 10118
+1296121	Kwoniella_dejecticola_cbs_10117.Cryp_deje_CBS10117_V1.dna.toplevel.fa.gz	Kwoniella dejecticola CBS 10117
+1296120	Kwoniella_heveanensis_bcc8398.Cryp_heve_BCC8398_V1.dna.toplevel.fa.gz	Kwoniella heveanensis BCC8398
+1296119	Kwoniella_heveanensis_cbs_569.Cryp_heve_CBS569_V2.dna.toplevel.fa.gz	Kwoniella heveanensis CBS 569
+1331196	Kwoniella_mangroviensis_cbs_10435.Kwon_mang_CBS10435_V2.dna.toplevel.fa.gz	Kwoniella mangroviensis CBS 10435
+1296122	Kwoniella_mangroviensis_cbs_8507.Kwon_mang_CBS8507_V2.dna.toplevel.fa.gz	Kwoniella mangroviensis CBS 8507
+1296123	Kwoniella_mangroviensis_cbs_8886.Kwon_mang_CBS8886_V1.dna.toplevel.fa.gz	Kwoniella mangroviensis CBS 8886
+1296096	Kwoniella_pini_cbs_10737.Cryp_pinu_CBS10737_V1.dna.toplevel.fa.gz	Kwoniella pini CBS 10737
+1095629	Laccaria_amethystina_laam_08_1.Laccaria_amethystina_LaAM-08-1_v1.0.dna.toplevel.fa.gz	Laccaria amethystina LaAM-08-1
+486041	Laccaria_bicolor_s238n_h82.V1.0.dna.toplevel.fa.gz	Laccaria bicolor S238N-H82
+1266660	Lachancea_dasiensis_cbs_10888.LADA0.dna.toplevel.fa.gz	Lachancea dasiensis CBS 10888
+4955	Lachancea_fermentati.LAFE0.dna.toplevel.fa.gz	Lachancea fermentati
+1245769	Lachancea_lanzarotensis.LALA0.dna.toplevel.fa.gz	Lachancea lanzarotensis
+1266667	Lachancea_meyersii_cbs_8951.LAME0.dna.toplevel.fa.gz	Lachancea meyersii CBS 8951
+1230905	Lachancea_mirantina.LAMI0.dna.toplevel.fa.gz	Lachancea mirantina
+1266666	Lachancea_nothofagi_cbs_11611.LANO0.dna.toplevel.fa.gz	Lachancea nothofagi CBS 11611
+433476	Lachancea_sp_cbs_6924.LAFA0.dna.toplevel.fa.gz	Lachancea sp. CBS 6924
+559295	Lachancea_thermotolerans_cbs_6340.ASM14280v1.dna.toplevel.fa.gz	Lachancea thermotolerans CBS 6340
+1314785	Laetiporus_sulphureus_93_53.Laesu1.dna.toplevel.fa.gz	Laetiporus sulphureus 93-53
+5353	Lentinula_edodes.Lened_assembly01.dna.toplevel.fa.gz	Lentinula edodes
+985895	Leptosphaeria_maculans.ASM23037v1.dna.toplevel.fa.gz	Leptosphaeria maculans JN3
+1714833	Leucoagaricus_sp_symc_cos.ASM156373v1.dna.toplevel.fa.gz	Leucoagaricus sp. SymC.cos
+1263082	Lichtheimia_corymbifera_jmrc_fsu_9682.454Minimus.dna.toplevel.fa.gz	Lichtheimia corymbifera JMRC:FSU:9682
+688394	Lichtheimia_ramosa.Lramosa_hybrid_454_Illumina.dna.toplevel.fa.gz	Lichtheimia ramosa
+675824	Lipomyces_starkeyi_nrrl_y_11557.Lipst1_1.dna.toplevel.fa.gz	Lipomyces starkeyi NRRL Y-11557
+379508	Lodderomyces_elongisporus_nrrl_yb_4239.ASM14968v1.dna.toplevel.fa.gz	Lodderomyces elongisporus NRRL YB-4239
+1126212	Macrophomina_phaseolina_ms6.MphMS6_1.0.dna.toplevel.fa.gz	Macrophomina phaseolina MS6
+100816	Madurella_mycetomatis.ASM127576v2.dna.toplevel.fa.gz	Madurella mycetomatis
+242507	Magnaporthe_oryzae.MG8.dna.toplevel.fa.gz	Magnaporthe oryzae 70-15
+644358	Magnaporthe_poae.Mag_poae_ATCC_64411_V1.dna.toplevel.fa.gz	Magnaporthiopsis poae ATCC 64411
+77020	Malassezia_pachydermatis.MalaPachy.dna.toplevel.fa.gz	Malassezia pachydermatis
+1230383	Malassezia_sympodialis_atcc_42132.ASM34930v2.dna.toplevel.fa.gz	Malassezia sympodialis ATCC 42132
+1230383	Malassezia_sympodialis_atcc_42132_gca_900149145.Msy_ATCC_42132_Feb2016.dna.toplevel.fa.gz	Malassezia sympodialis ATCC 42132
+1072389	Marssonina_brunnea_f_sp_multigermtubi_mb_m1.ASM29877v1.dna.toplevel.fa.gz	Marssonina brunnea f. sp. 'multigermtubi' MB_m1
+747676	Melampsora_laricipopulina.GCA_000204055.1.dna.toplevel.fa.gz	Melampsora larici-populina 98AG31
+655827	Metarhizium_acridum_cqma_102.MetAcr_May2010.dna.toplevel.fa.gz	Metarhizium acridum CQMa 102
+1081103	Metarhizium_album_arsef_1941.MAM_1.0_for_version_1_of_the_Metarhizium_album_genome.dna.toplevel.fa.gz	Metarhizium album ARSEF 1941
+655844	Metarhizium_anisopliae_arsef_23.MAA_2.0.dna.toplevel.fa.gz	Metarhizium robertsii ARSEF 23
+1276135	Metarhizium_anisopliae_arsef_549.MAN_1.0.dna.toplevel.fa.gz	Metarhizium anisopliae ARSEF 549
+1291519	Metarhizium_anisopliae_brip_53284.ASM42698v1.dna.toplevel.fa.gz	Metarhizium anisopliae BRIP 53284
+1291518	Metarhizium_anisopliae_brip_53293.ASM42696v1.dna.toplevel.fa.gz	Metarhizium anisopliae BRIP 53293
+5530	Metarhizium_anisopliae.Metarhizium_anisopliae.dna.toplevel.fa.gz	Metarhizium anisopliae
+1276141	Metarhizium_brunneum_arsef_3297.MBR_1.0.dna.toplevel.fa.gz	Metarhizium brunneum ARSEF 3297
+1276136	Metarhizium_guizhouense_arsef_977.MGU_1.0.dna.toplevel.fa.gz	Metarhizium guizhouense ARSEF 977
+1276143	Metarhizium_majus_arsef_297.MAJ_1.0.dna.toplevel.fa.gz	Metarhizium majus ARSEF 297
+1081105	Metarhizium_rileyi_rcef_4871.NOR_1.0.dna.toplevel.fa.gz	Metarhizium rileyi RCEF 4871
+568076	Metarhizium_robertsii.MR2010_11_27.dna.toplevel.fa.gz	Metarhizium robertsii
+869754	Metschnikowia_bicuspidata_var_bicuspidata_nrrl_yb_4993.Metbi1.dna.toplevel.fa.gz	Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993
+294746	Meyerozyma_guilliermondii_atcc_6260.ASM14942v1.dna.toplevel.fa.gz	Meyerozyma guilliermondii ATCC 6260
+683840	Microbotryum_violaceum.GCA_000166175.1.dna.toplevel.fa.gz	Microbotryum lychnidis-dioicae p1A1 Lamole
+196109	Microdochium_bolleyi.Microdochium_bolleyi_v1.0.dna.toplevel.fa.gz	Microdochium bolleyi
+559304	Millerozyma_farinosa_cbs_7064.ASM31589v1.dna.toplevel.fa.gz	Millerozyma farinosa CBS 7064
+1485682	Mitosporidium_daphniae.UGP1.0.dna.toplevel.fa.gz	Mitosporidium daphniae
+764103	Mixia_osmundae_iam_14324_gca_000708205.Mixia_osmundae_v1.0.dna.toplevel.fa.gz	Mixia osmundae IAM 14324
+764103	Mixia_osmundae_iam_14324.Mosmundae_2.0.dna.toplevel.fa.gz	Mixia osmundae IAM 14324
+84753	Moesziomyces_antarcticus.ASM74776v1.dna.toplevel.fa.gz	Moesziomyces antarcticus
+1391700	Moesziomyces_aphidis_dsm_70725.PseuAph1.0.dna.toplevel.fa.gz	Moesziomyces aphidis DSM 70725
+554373	Moniliophthora_perniciosa_fa553.ASM18302v1.dna.toplevel.fa.gz	Moniliophthora perniciosa FA553
+221103	Moniliophthora_roreri.ASM146670v1.dna.toplevel.fa.gz	Moniliophthora roreri
+1381753	Moniliophthora_roreri_mca_2997.M_roreri_MCA_2997_v1.dna.toplevel.fa.gz	Moniliophthora roreri MCA 2997
+1314771	Mortierella_elongata_ag_77.Mortierella_elongata_AG-77_v2.0.dna.toplevel.fa.gz	Mortierella elongata AG-77
+1069443	Mortierella_verticillata_nrrl_6337.Mort_vert_NRRL_6337_V1.dna.toplevel.fa.gz	Mortierella verticillata NRRL 6337
+91626	Mucor_ambiguus.ASM95059v1.dna.toplevel.fa.gz	Mucor ambiguus
+1220926	Mucor_circinelloides_f_circinelloides_1006phl.Muco_sp_1006Ph_V1.dna.toplevel.fa.gz	Mucor circinelloides f. circinelloides 1006PhL
+747725	Mucor_circinelloides_f_lusitanicus_cbs_277_49.Mucci2.dna.toplevel.fa.gz	Mucor circinelloides f. lusitanicus CBS 277.49
+321146	Mycosphaerella_eumusae.ASM157823v1.dna.toplevel.fa.gz	Mycosphaerella eumusae
+857566	Nadsonia_fulvescens_var_elongata_dsm_6958.Nadfu1.dna.toplevel.fa.gz	Nadsonia fulvescens var. elongata DSM 6958
+535722	Nannizzia_gypsea_cbs_118893.MS_CBS118893.dna.toplevel.fa.gz	Nannizzia gypsea CBS 118893
+1064592	Naumovozyma_castellii_cbs_4309.ASM23734v1.dna.toplevel.fa.gz	Naumovozyma castellii CBS 4309
+1071378	Naumovozyma_dairenensis_cbs_421.ASM22711v2.dna.toplevel.fa.gz	Naumovozyma dairenensis CBS 421
+1805483	Nematocida_displodere.ASM164239v1.dna.toplevel.fa.gz	Nematocida displodere
+881290	Nematocida_parisii_ertm1.Nema_parisii_ERTm1_V3.dna.toplevel.fa.gz	Nematocida parisii ERTm1
+935791	Nematocida_parisii_ertm3.Nema_parisii_ERTm3_V1.dna.toplevel.fa.gz	Nematocida parisii ERTm3
+944018	Nematocida_sp_1_ertm2.Nema_parisii_ERTm2_V1.dna.toplevel.fa.gz	Nematocida sp. 1 ERTm2
+1138374	Nematocida_sp_1_ertm6.Nema_sp_1_ERTm6_V2.dna.toplevel.fa.gz	Nematocida sp. 1 ERTm6
+1805481	Nematocida_sp_ertm5.ASM164241v1.dna.toplevel.fa.gz	Nematocida sp. ERTm5
+1287680	Neofusicoccum_parvum_ucrnp2.UCRNP2V3.dna.toplevel.fa.gz	Neofusicoccum parvum UCRNP2
+1198029	Neolecta_irregularis_dah_3.NeoIirr1.0.dna.toplevel.fa.gz	Neolecta irregularis DAH-3
+1314782	Neolentinus_lepideus_hhb14362_ss_1.Neole1.dna.toplevel.fa.gz	Neolentinus lepideus HHB14362 ss-1
+78410	Neonectria_ditissima.R0905_v2.0.dna.toplevel.fa.gz	Neonectria ditissima
+331117	Neosartorya_fischeri.ASM14964v1.dna.toplevel.fa.gz	Aspergillus fischeri NRRL 181
+5141	Neurospora_crassa_gca_000786625.Neucr_trp3_1.dna.toplevel.fa.gz	Neurospora crassa
+367110	Neurospora_crassa.NC12.dna.toplevel.fa.gz	Neurospora crassa OR74A
+510951	Neurospora_tetrasperma_fgsc_2508.v2.0.dna.toplevel.fa.gz	Neurospora tetrasperma FGSC 2508
+510952	Neurospora_tetrasperma_fgsc_2509.v1.0.dna.toplevel.fa.gz	Neurospora tetrasperma FGSC 2509
+1037528	Nosema_apis_brl_01.NapisBRLv01.dna.toplevel.fa.gz	Nosema apis BRL 01
+578461	Nosema_bombycis_cq1.NosBomCQ1_v1.0.dna.toplevel.fa.gz	Nosema bombycis CQ1
+40302	Nosema_ceranae.ASM98816v1.dna.toplevel.fa.gz	Nosema ceranae
+578460	Nosema_ceranae_brl01.ASM18298v1.dna.toplevel.fa.gz	Nosema ceranae BRL01
+871575	Ogataea_parapolymorpha_dl_1.Hansenula_2.dna.toplevel.fa.gz	Ogataea parapolymorpha DL-1
+460523	Ogataea_polymorpha.Hanpo2.dna.toplevel.fa.gz	Ogataea polymorpha
+913774	Oidiodendron_maius_zn.Oidiodendron_maius_Zn_v1.0.dna.toplevel.fa.gz	Oidiodendron maius Zn
+911162	Ophiocordyceps_sinensis_co18.ASM44836v1.dna.toplevel.fa.gz	Ophiocordyceps sinensis CO18
+268505	Ophiocordyceps_unilateralis.ASM127257v1.dna.toplevel.fa.gz	Ophiocordyceps unilateralis
+1262450	Ophiostoma_piceae_uamh_11346.Opiceae_UAMHv01.dna.toplevel.fa.gz	Ophiostoma piceae UAMH 11346
+1354746	Ordospora_colligata_oc4.ASM80326v1.dna.toplevel.fa.gz	Ordospora colligata OC4
+669874	Pachysolen_tannophilus_nrrl_y_2460.Pacta1_2.dna.toplevel.fa.gz	Pachysolen tannophilus NRRL Y-2460
+121759	Paracoccidioides_brasiliensis.ASM171364v1.dna.toplevel.fa.gz	Paracoccidioides brasiliensis
+121759	Paracoccidioides_brasiliensis_gca_001713695.Paracocci_br_PbCNH.dna.toplevel.fa.gz	Paracoccidioides brasiliensis
+482561	Paracoccidioides_brasiliensis_pb03.Paracocci_br_Pb03_V2.dna.toplevel.fa.gz	Paracoccidioides brasiliensis Pb03
+502780	Paracoccidioides_brasiliensis_pb18.Paracocci_br_Pb18_V2.dna.toplevel.fa.gz	Paracoccidioides brasiliensis Pb18
+502779	Paracoccidioides_sp_lutzii_pb01.Paracocci_br_Pb01_V2.dna.toplevel.fa.gz	Paracoccidioides lutzii Pb01
+1460663	Paraphaeosphaeria_sporulosa.Parsp1.dna.toplevel.fa.gz	Paraphaeosphaeria sporulosa
+35722	Parasitella_parasitica.PP.v1.dna.toplevel.fa.gz	Parasitella parasitica
+664439	Paxillus_involutus_atcc_200175.Paxillus_involutus_ATCC_200175_v1.0.dna.toplevel.fa.gz	Paxillus involutus ATCC 200175
+930991	Paxillus_rubicundulus_ve08_2h10.Paxillus_rubicundulus_Ve08.2h10_v1.0.dna.toplevel.fa.gz	Paxillus rubicundulus Ve08.2h10
+1073090	Penicilliopsis_zonata_cbs_506_65.Aspzo1.dna.toplevel.fa.gz	Penicilliopsis zonata CBS 506.65
+416450	Penicillium_antarcticum.ASM207234v1.dna.toplevel.fa.gz	Penicillium antarcticum
+1835702	Penicillium_arizonense.ASM177332v1.dna.toplevel.fa.gz	Penicillium arizonense
+104259	Penicillium_brasilianum_gca_002016555.ASM201655v1.dna.toplevel.fa.gz	Penicillium brasilianum
+104259	Penicillium_brasilianum.Pbras_Allpaths-LG.dna.toplevel.fa.gz	Penicillium brasilianum
+1429867	Penicillium_camemberti_fm_013.PCAMFM013_20131106.dna.toplevel.fa.gz	Penicillium camemberti FM 013
+5076	Penicillium_chrysogenum.ASM71027v1.dna.toplevel.fa.gz	Penicillium chrysogenum
+36646	Penicillium_coprophilum.ASM207240v1.dna.toplevel.fa.gz	Penicillium coprophilum
+69771	Penicillium_decumbens.ASM207224v1.dna.toplevel.fa.gz	Penicillium decumbens
+1170230	Penicillium_digitatum_pd1.PdigPd1_v1.dna.toplevel.fa.gz	Penicillium digitatum Pd1
+1170229	Penicillium_digitatum_phi26.PdigPHI26_v1.dna.toplevel.fa.gz	Penicillium digitatum PHI26
+27334	Penicillium_expansum_gca_000769735.ASM76973v1.dna.toplevel.fa.gz	Penicillium expansum
+27334	Penicillium_expansum_gca_000769745.ASM76974v1.dna.toplevel.fa.gz	Penicillium expansum
+27334	Penicillium_expansum.PEX1.dna.toplevel.fa.gz	Penicillium expansum
+254877	Penicillium_flavigenum.ASM207236v1.dna.toplevel.fa.gz	Penicillium flavigenum
+48697	Penicillium_freii.ASM151392v1.dna.toplevel.fa.gz	Penicillium freii
+5078	Penicillium_griseofulvum.ASM156193v1.dna.toplevel.fa.gz	Penicillium griseofulvum
+40296	Penicillium_italicum.ASM76976v1.dna.toplevel.fa.gz	Penicillium italicum
+60175	Penicillium_nalgiovense.ASM207242v1.dna.toplevel.fa.gz	Penicillium nalgiovense
+229535	Penicillium_nordicum.ASM127859v1.dna.toplevel.fa.gz	Penicillium nordicum
+933388	Penicillium_oxalicum_114_2.pde_v1.0.dna.toplevel.fa.gz	Penicillium oxalicum 114-2
+60169	Penicillium_polonicum.ASM207226v1.dna.toplevel.fa.gz	Penicillium polonicum
+1365484	Penicillium_roqueforti_fm164.PROQFM164_20130607.dna.toplevel.fa.gz	Penicillium roqueforti FM164
+500485	Penicillium_rubens_wisconsin_54_1255.PenChr_Nov2007.dna.toplevel.fa.gz	Penicillium rubens Wisconsin 54-1255
+60172	Penicillium_solitum.ASM207223v1.dna.toplevel.fa.gz	Penicillium solitum
+303698	Penicillium_steckii.ASM207237v1.dna.toplevel.fa.gz	Penicillium steckii
+1316194	Penicillium_subrubescens.ASM190812v1.dna.toplevel.fa.gz	Penicillium subrubescens
+29845	Penicillium_vulpinum.ASM207225v1.dna.toplevel.fa.gz	Penicillium vulpinum
+1314672	Peniophora_sp_cont.Ricme1.dna.toplevel.fa.gz	Peniophora sp. CONT
+1229662	Pestalotiopsis_fici_w106_1.PFICI.dna.toplevel.fa.gz	Pestalotiopsis fici W106-1
+1286976	Phaeoacremonium_minimum_ucrpa7.UCRPA7V03.dna.toplevel.fa.gz	Phaeoacremonium minimum UCRPA7
+158046	Phaeomoniella_chlamydospora.UCRPA7V1.0.dna.toplevel.fa.gz	Phaeomoniella chlamydospora
+321614	Phaeosphaeria_nodorum.ASM14691v1.dna.toplevel.fa.gz	Parastagonospora nodorum SN15
+650164	Phanerochaete_carnosa_hhb_10118_sp.Phanerochaete_carnosa_HHB-10118-Sp_v1.0.dna.toplevel.fa.gz	Phanerochaete carnosa HHB-10118-sp
+149040	Phialocephala_scopiformis.Phisc1.dna.toplevel.fa.gz	Phialocephala scopiformis
+576137	Phialocephala_subalpina.PAC_version_1.dna.toplevel.fa.gz	Phialocephala subalpina
+5601	Phialophora_americana.Capr_semi_CBS27337_V1.dna.toplevel.fa.gz	Phialophora americana
+1664694	Phialophora_attae.ASM129925v1.dna.toplevel.fa.gz	Phialophora attae
+98765	Phlebia_centrifuga.ASM191385v1.dna.toplevel.fa.gz	Phlebia centrifuga
+745531	Phlebiopsis_gigantea_11061_1_cr5_6.Phlgi1.dna.toplevel.fa.gz	Phlebiopsis gigantea 11061_1 CR5-6
+763407	Phycomyces_blakesleeanus_nrrl_1555_.Phybl2.dna.toplevel.fa.gz	Phycomyces blakesleeanus NRRL 1555(-)
+4909	Pichia_kudriavzevii.ASM76445v1.dna.toplevel.fa.gz	Pichia kudriavzevii
+4909	Pichia_kudriavzevii_gca_001983325.ASM198332v1.dna.toplevel.fa.gz	Pichia kudriavzevii
+763406	Pichia_membranifaciens_nrrl_y_2026.Picme2.dna.toplevel.fa.gz	Pichia membranifaciens NRRL Y-2026
+4926	Pichia_membranifaciens.P_membrenifaciens-1.0.dna.toplevel.fa.gz	Pichia membranifaciens
+765440	Piloderma_croceum_f_1598.Piloderma_croceum_F_1598_v1.0.dna.toplevel.fa.gz	Piloderma croceum F 1598
+765257	Pisolithus_microcarpus_441.Pisolithus_microcarpus_441_v1.0.dna.toplevel.fa.gz	Pisolithus microcarpus 441
+870435	Pisolithus_tinctorius_marx_270.Pisolithus_tinctorius_Marx_270_v1.0.dna.toplevel.fa.gz	Pisolithus tinctorius Marx 270
+1137138	Pleurotus_ostreatus_pc15.PleosPC15_2.dna.toplevel.fa.gz	Pleurotus ostreatus PC15
+944288	Plicaturopsis_crispa_fd_325_ss_3.Plicr1.dna.toplevel.fa.gz	Plicaturopsis crispa FD-325 SS-3
+1408658	Pneumocystis_carinii_b80.Pneu_cari_B80_V3.dna.toplevel.fa.gz	Pneumocystis carinii B80
+1408657	Pneumocystis_jirovecii_ru7.Pneu_jiro_RU7_V2.dna.toplevel.fa.gz	Pneumocystis jirovecii RU7
+1069680	Pneumocystis_murina_b123.Pneumo_murina_B123_V4.dna.toplevel.fa.gz	Pneumocystis murina B123
+1380566	Pochonia_chlamydosporia_170.ASM165323v1.dna.toplevel.fa.gz	Pochonia chlamydosporia 170
+515849	Podospora_anserina_s_mat_.ASM22654v1.dna.toplevel.fa.gz	Podospora anserina S mat+
+561896	Postia_placenta_mad_698_r.Postia_placenta_V1.0.dna.toplevel.fa.gz	Postia placenta Mad-698-R
+383855	Pseudocercospora_fijiensis_cirad86.Mycfi2.dna.toplevel.fa.gz	Pseudocercospora fijiensis CIRAD86
+113226	Pseudocercospora_musae.ASM157822v1.dna.toplevel.fa.gz	Pseudocercospora musae
+658429	Pseudogymnoascus_destructans_20631_21.Geom_destructans_V1.dna.toplevel.fa.gz	Pseudogymnoascus destructans 20631-21
+655981	Pseudogymnoascus_destructans.ASM164126v1.dna.toplevel.fa.gz	Pseudogymnoascus destructans
+1622148	Pseudogymnoascus_sp_03vt05.ASM166264v1.dna.toplevel.fa.gz	Pseudogymnoascus sp. 03VT05
+1622149	Pseudogymnoascus_sp_05ny08.ASM166260v1.dna.toplevel.fa.gz	Pseudogymnoascus sp. 05NY08
+1524831	Pseudogymnoascus_sp_23342_1_i1.ASM166257v1.dna.toplevel.fa.gz	Pseudogymnoascus sp. 23342-1-I1
+1622150	Pseudogymnoascus_sp_24mn13.ASM166259v1.dna.toplevel.fa.gz	Pseudogymnoascus sp. 24MN13
+1420912	Pseudogymnoascus_sp_vkm_f_103.DG30.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-103
+1437433	Pseudogymnoascus_sp_vkm_f_3557.DG3.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-3557
+1420901	Pseudogymnoascus_sp_vkm_f_3775.DG4.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-3775
+1391699	Pseudogymnoascus_sp_vkm_f_3808.DG1.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-3808
+1420902	Pseudogymnoascus_sp_vkm_f_4246.DG5.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4246
+1420906	Pseudogymnoascus_sp_vkm_f_4281_fw_2241_.DG6.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4281 (FW-2241)
+1420907	Pseudogymnoascus_sp_vkm_f_4513_fw_928_.DG7.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4513 (FW-928)
+1420908	Pseudogymnoascus_sp_vkm_f_4514_fw_929_.DG8.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4514 (FW-929)
+1420909	Pseudogymnoascus_sp_vkm_f_4515_fw_2607_.DG10.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4515 (FW-2607)
+1420910	Pseudogymnoascus_sp_vkm_f_4516_fw_969_.DG11.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4516 (FW-969)
+1420911	Pseudogymnoascus_sp_vkm_f_4517_fw_2822_.DG13.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4517 (FW-2822)
+1420913	Pseudogymnoascus_sp_vkm_f_4518_fw_2643_.DG36.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4518 (FW-2643)
+1420914	Pseudogymnoascus_sp_vkm_f_4519_fw_2642_.DG38.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4519 (FW-2642)
+1420915	Pseudogymnoascus_sp_vkm_f_4520_fw_2644_.DG39.dna.toplevel.fa.gz	Pseudogymnoascus sp. VKM F-4520 (FW-2644)
+1622147	Pseudogymnoascus_sp_wsf_3629.ASM166258v1.dna.toplevel.fa.gz	Pseudogymnoascus sp. WSF 3629
+342668	Pseudogymnoascus_verrucosus.ASM166265v1.dna.toplevel.fa.gz	Pseudogymnoascus verrucosus
+146866	Pseudoloma_neurophilia.ASM143216v1.dna.toplevel.fa.gz	Pseudoloma neurophilia
+1305764	Pseudozyma_hubeiensis_sy62.ASM40351v1.dna.toplevel.fa.gz	Pseudozyma hubeiensis SY62
+418459	Puccinia_graminis.ASM14992v1.dna.toplevel.fa.gz	Puccinia graminis f. sp. tritici CRL 75-36-700-3
+1040990	Puccinia_graminisug99.v1.dna.toplevel.fa.gz	Puccinia graminis f. sp. tritici 04KEN156/4
+27349	Puccinia_sorghi.ASM126337v1.dna.toplevel.fa.gz	Puccinia sorghi
+1165861	Puccinia_striiformis_f_sp_tritici_pst_78.P_striiformis_V1.dna.toplevel.fa.gz	Puccinia striiformis f. sp. tritici PST-78
+875184	Puccinia_striiformis.PST-130_1.0.dna.toplevel.fa.gz	Puccinia striiformis f. sp. tritici PST-130
+630390	Puccinia_triticina.ASM15152v1.dna.toplevel.fa.gz	Puccinia triticina 1-1 BBBD Race 1
+741275	Punctularia_strigosozonata_hhb_11173_ss5.Punctularia_strigosozonata_v1.0.dna.toplevel.fa.gz	Punctularia strigosozonata HHB-11173 SS5
+33203	Purpureocillium_lilacinum.ASM165320v1.dna.toplevel.fa.gz	Purpureocillium lilacinum
+33203	Purpureocillium_lilacinum_gca_001653265.ASM165326v1.dna.toplevel.fa.gz	Purpureocillium lilacinum
+765867	Pyrenochaeta_sp_ds3say3a.Pyrsp1.dna.toplevel.fa.gz	Pyrenochaeta sp. DS3sAY3a
+861557	Pyrenophora_teres.GCA_000166005.1.dna.toplevel.fa.gz	Pyrenophora teres f. teres 0-1
+426418	Pyrenophora_triticirepentis.ASM14998v1.dna.toplevel.fa.gz	Pyrenophora tritici-repentis Pt-1C-BFP
+1076935	Pyronema_omphalodes_cbs_100304.Pcon_v1.dna.toplevel.fa.gz	Pyronema omphalodes CBS 100304
+1507870	Rachicladosporium_antarcticum.ASM207706v1.dna.toplevel.fa.gz	Rachicladosporium antarcticum
+1408163	Rasamsonia_emersonii_cbs_393_64.ASM96859v1.dna.toplevel.fa.gz	Rasamsonia emersonii CBS 393.64
+1442369	Rhinocladiella_mackenziei_cbs_650_93.Rhin_mack_CBS_650_93_V1.dna.toplevel.fa.gz	Rhinocladiella mackenziei CBS 650.93
+1423351	Rhizoctonia_solani_123e.Rhizoctonia_solani_123E_v1.dna.toplevel.fa.gz	Rhizoctonia solani 123E
+983506	Rhizoctonia_solani_ag_1_ia.Rhisol_AG1IA_1.0.dna.toplevel.fa.gz	Rhizoctonia solani AG-1 IA
+1108050	Rhizoctonia_solani_ag_1_ib.ASM35025v1.dna.toplevel.fa.gz	Rhizoctonia solani AG-1 IB
+456999	Rhizoctonia_solani.AG22IIIB.dna.toplevel.fa.gz	Rhizoctonia solani
+1086054	Rhizoctonia_solani_ag_3_rhs1ap.Rhizoctonia_solani_AG-3.dna.toplevel.fa.gz	Rhizoctonia solani AG-3 Rhs1AP
+1287689	Rhizoctonia_solani_ag_8_wac10335.RSAG8-1.V1.dna.toplevel.fa.gz	Rhizoctonia solani AG-8 WAC10335
+747089	Rhizophagus_irregularis_daom_181602_gca_000439145.Gloin1.dna.toplevel.fa.gz	Rhizophagus irregularis DAOM 181602=DAOM 197198
+1432141	Rhizophagus_irregularis_daom_197198w_gca_000597685.Rir.dna.toplevel.fa.gz	Rhizophagus irregularis DAOM 197198w
+180088	Rhizopogon_vesiculosus.Rves_AM-OR11-056_1.0.dna.toplevel.fa.gz	Rhizopogon vesiculosus
+1314800	Rhizopogon_vinicolor_am_or11_026.Rhivi1.dna.toplevel.fa.gz	Rhizopogon vinicolor AM-OR11-026
+246409	Rhizopus_delemar_ra_99_880.RO3.dna.toplevel.fa.gz	Rhizopus delemar RA 99-880
+58291	Rhizopus_microsporus.Rhimi_ATCC11559_1.dna.toplevel.fa.gz	Rhizopus microsporus
+86635	Rhizopus_microsporus_var_microsporus.Rhimi_ATCC52814_1.dna.toplevel.fa.gz	Rhizopus microsporus var. microsporus
+578459	Rhodotorula_graminis_wp1.Rhoba1_1.dna.toplevel.fa.gz	Rhodotorula graminis WP1
+1305733	Rhodotorula_sp_jg_1b.Rhosp1.dna.toplevel.fa.gz	Rhodotorula sp. JG-1b
+1001064	Rhodotorula_toruloides_atcc_204091.R.glutinis2.dna.toplevel.fa.gz	Rhodotorula toruloides ATCC 204091
+5286	Rhodotorula_toruloides.IFO0880_HGAP3_v1.dna.toplevel.fa.gz	Rhodotorula toruloides
+1130832	Rhodotorula_toruloides_np11.RHOziaDV1.0.dna.toplevel.fa.gz	Rhodotorula toruloides NP11
+914238	Rhynchosporium_agropyri.version_1.dna.toplevel.fa.gz	Rhynchosporium agropyri
+914237	Rhynchosporium_commune.version_1.dna.toplevel.fa.gz	Rhynchosporium commune
+38038	Rhynchosporium_secalis.version_1.dna.toplevel.fa.gz	Rhynchosporium secalis
+988480	Rozella_allomycis_csf55.Rozella_k41_t100.dna.toplevel.fa.gz	Rozella allomycis CSF55
+1160507	Saccharomyces_arboricola_h_6.SacArb1.0.dna.toplevel.fa.gz	Saccharomyces arboricola H-6
+764097	Saccharomyces_cerevisiae_awri796.ScAWRI796_v01.dna.toplevel.fa.gz	Saccharomyces cerevisiae AWRI796
+889517	Saccharomyces_cerevisiae_cen_pk113_7d.ASM26988v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae CEN.PK113-7D
+643680	Saccharomyces_cerevisiae_ec1118.ASM21897v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae EC1118
+764102	Saccharomyces_cerevisiae_fostersb.ScFostersB_v01.dna.toplevel.fa.gz	Saccharomyces cerevisiae FostersB
+764101	Saccharomyces_cerevisiae_fosterso.ScFostersO_v01.dna.toplevel.fa.gz	Saccharomyces cerevisiae FostersO
+4932	Saccharomyces_cerevisiae_gca_000091065.ASM9106v2.dna.toplevel.fa.gz	Saccharomyces cerevisiae
+4932	Saccharomyces_cerevisiae_gca_001634645.GLBRCY22-3.dna.toplevel.fa.gz	Saccharomyces cerevisiae
+4932	Saccharomyces_cerevisiae_gca_001983315.ASM198331v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae
+721032	Saccharomyces_cerevisiae_kyokai_no_7.K7_1.0.dna.toplevel.fa.gz	Saccharomyces cerevisiae Kyokai no. 7
+764098	Saccharomyces_cerevisiae_lalvin_qa23.ScQA23_v01.dna.toplevel.fa.gz	Saccharomyces cerevisiae Lalvin QA23
+1177187	Saccharomyces_cerevisiae_p283.P283.dna.toplevel.fa.gz	Saccharomyces cerevisiae P283
+1182968	Saccharomyces_cerevisiae_p301.p301.dna.toplevel.fa.gz	Saccharomyces cerevisiae P301
+1182966	Saccharomyces_cerevisiae_r008.R008.dna.toplevel.fa.gz	Saccharomyces cerevisiae R008
+1182967	Saccharomyces_cerevisiae_r103.R103.dna.toplevel.fa.gz	Saccharomyces cerevisiae R103
+559292	Saccharomyces_cerevisiae.R64-1-1.dna.toplevel.fa.gz	Saccharomyces cerevisiae S288C
+285006	Saccharomyces_cerevisiae_rm11_1a.ASM14936v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae RM11-1a
+764099	Saccharomyces_cerevisiae_vin13.ScVIN13_v01.dna.toplevel.fa.gz	Saccharomyces cerevisiae Vin13
+764100	Saccharomyces_cerevisiae_vl3.ScVL3_v01.dna.toplevel.fa.gz	Saccharomyces cerevisiae VL3
+1095631	Saccharomyces_cerevisiae_x_saccharomyces_kudriavzevii_vin7.ASM32610v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7
+1296266	Saccharomyces_cerevisiae_yjm1078.Sc_YJM1078_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1078
+1292971	Saccharomyces_cerevisiae_yjm1083.Sc_YJM1083_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1083
+1293430	Saccharomyces_cerevisiae_yjm1129.Sc_YJM1129_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1129
+1294333	Saccharomyces_cerevisiae_yjm1133.Sc_YJM1133_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1133
+1294334	Saccharomyces_cerevisiae_yjm1190.Sc_YJM1190_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1190
+1294335	Saccharomyces_cerevisiae_yjm1199.Sc_YJM1199_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1199
+1294336	Saccharomyces_cerevisiae_yjm1202.Sc_YJM1202_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1202
+1294337	Saccharomyces_cerevisiae_yjm1208.Sc_YJM1208_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1208
+1294338	Saccharomyces_cerevisiae_yjm1242.Sc_YJM1242_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1242
+1294339	Saccharomyces_cerevisiae_yjm1244.Sc_YJM1244_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1244
+1294340	Saccharomyces_cerevisiae_yjm1248.Sc_YJM1248_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1248
+1294341	Saccharomyces_cerevisiae_yjm1250.Sc_YJM1250_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1250
+1294342	Saccharomyces_cerevisiae_yjm1252.Sc_YJM1252_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1252
+1294343	Saccharomyces_cerevisiae_yjm1273.Sc_YJM1273_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1273
+1294344	Saccharomyces_cerevisiae_yjm1304.Sc_YJM1304_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1304
+1294345	Saccharomyces_cerevisiae_yjm1307.Sc_YJM1307_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1307
+1294346	Saccharomyces_cerevisiae_yjm1311.Sc_YJM1311_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1311
+1294347	Saccharomyces_cerevisiae_yjm1326.Sc_YJM1326_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1326
+1294348	Saccharomyces_cerevisiae_yjm1332.Sc_YJM1332_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1332
+1294349	Saccharomyces_cerevisiae_yjm1336.Sc_YJM1336_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1336
+1294350	Saccharomyces_cerevisiae_yjm1338.Sc_YJM1338_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1338
+1294351	Saccharomyces_cerevisiae_yjm1341.Sc_YJM1341_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1341
+1294352	Saccharomyces_cerevisiae_yjm1342.Sc_YJM1342_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1342
+1294353	Saccharomyces_cerevisiae_yjm1355.Sc_YJM1355_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1355
+1294354	Saccharomyces_cerevisiae_yjm1356.Sc_YJM1356_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1356
+1294355	Saccharomyces_cerevisiae_yjm1381.Sc_YJM1381_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1381
+1294356	Saccharomyces_cerevisiae_yjm1383.Sc_YJM1383_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1383
+1294357	Saccharomyces_cerevisiae_yjm1385.Sc_YJM1385_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1385
+1294358	Saccharomyces_cerevisiae_yjm1386.Sc_YJM1386_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1386
+1294359	Saccharomyces_cerevisiae_yjm1387.Sc_YJM1387_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1387
+1294360	Saccharomyces_cerevisiae_yjm1388.Sc_YJM1388_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1388
+1294361	Saccharomyces_cerevisiae_yjm1389.Sc_YJM1389_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1389
+1294362	Saccharomyces_cerevisiae_yjm1399.Sc_YJM1399_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1399
+1294363	Saccharomyces_cerevisiae_yjm1400.Sc_YJM1400_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1400
+1294364	Saccharomyces_cerevisiae_yjm1401.Sc_YJM1401_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1401
+1294365	Saccharomyces_cerevisiae_yjm1402.Sc_YJM1402_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1402
+1294366	Saccharomyces_cerevisiae_yjm1415.Sc_YJM1415_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1415
+1294367	Saccharomyces_cerevisiae_yjm1417.Sc_YJM1417_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1417
+1294368	Saccharomyces_cerevisiae_yjm1418.Sc_YJM1418_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1418
+1294369	Saccharomyces_cerevisiae_yjm1419.Sc_YJM1419_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1419
+1294370	Saccharomyces_cerevisiae_yjm1433.Sc_YJM1433_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1433
+1294371	Saccharomyces_cerevisiae_yjm1434.Sc_YJM1434_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1434
+1294372	Saccharomyces_cerevisiae_yjm1439.Sc_YJM1439_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1439
+1294373	Saccharomyces_cerevisiae_yjm1443.Sc_YJM1443_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1443
+1294374	Saccharomyces_cerevisiae_yjm1444.Sc_YJM1444_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1444
+1294375	Saccharomyces_cerevisiae_yjm1447.Sc_YJM1447_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1447
+1294376	Saccharomyces_cerevisiae_yjm1450.Sc_YJM1450_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1450
+1294377	Saccharomyces_cerevisiae_yjm1460.Sc_YJM1460_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1460
+1294378	Saccharomyces_cerevisiae_yjm1463.Sc_YJM1463_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1463
+1294379	Saccharomyces_cerevisiae_yjm1477.Sc_YJM1477_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1477
+1294380	Saccharomyces_cerevisiae_yjm1478.Sc_YJM1478_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1478
+1294381	Saccharomyces_cerevisiae_yjm1479.Sc_YJM1479_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1479
+1294382	Saccharomyces_cerevisiae_yjm1526.Sc_YJM1526_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1526
+1294383	Saccharomyces_cerevisiae_yjm1527.Sc_YJM1527_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1527
+1294384	Saccharomyces_cerevisiae_yjm1549.Sc_YJM1549_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1549
+1294385	Saccharomyces_cerevisiae_yjm1573.Sc_YJM1573_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1573
+1294386	Saccharomyces_cerevisiae_yjm1574.Sc_YJM1574_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1574
+1294387	Saccharomyces_cerevisiae_yjm1592.Sc_YJM1592_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1592
+1294388	Saccharomyces_cerevisiae_yjm1615.Sc_YJM1615_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM1615
+1294303	Saccharomyces_cerevisiae_yjm189.Sc_YJM189_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM189
+1294304	Saccharomyces_cerevisiae_yjm193.Sc_YJM193_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM193
+1294305	Saccharomyces_cerevisiae_yjm195.Sc_YJM195_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM195
+1294306	Saccharomyces_cerevisiae_yjm244.Sc_YJM244_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM244
+1294307	Saccharomyces_cerevisiae_yjm248.Sc_YJM248_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM248
+1294308	Saccharomyces_cerevisiae_yjm270.Sc_YJM270_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM270
+1294309	Saccharomyces_cerevisiae_yjm271.Sc_YJM271_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM271
+947042	Saccharomyces_cerevisiae_yjm320.Sc_YJM320_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM320
+468558	Saccharomyces_cerevisiae_yjm326.Sc_YJM326_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM326
+947044	Saccharomyces_cerevisiae_yjm428.Sc_YJM428_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM428
+1294310	Saccharomyces_cerevisiae_yjm450.Sc_YJM450_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM450
+502869	Saccharomyces_cerevisiae_yjm451.Sc_YJM451_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM451
+1294311	Saccharomyces_cerevisiae_yjm453.Sc_YJM453_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM453
+1294312	Saccharomyces_cerevisiae_yjm456.Sc_YJM456_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM456
+1294313	Saccharomyces_cerevisiae_yjm470.Sc_YJM470_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM470
+1294314	Saccharomyces_cerevisiae_yjm541.Sc_YJM541_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM541
+1294315	Saccharomyces_cerevisiae_yjm554.Sc_YJM554_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM554
+1294316	Saccharomyces_cerevisiae_yjm555.Sc_YJM555_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM555
+1294317	Saccharomyces_cerevisiae_yjm627.Sc_YJM627_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM627
+1294318	Saccharomyces_cerevisiae_yjm681.Sc_YJM681_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM681
+1294319	Saccharomyces_cerevisiae_yjm682.Sc_YJM682_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM682
+1294320	Saccharomyces_cerevisiae_yjm683.Sc_YJM683_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM683
+1294321	Saccharomyces_cerevisiae_yjm689.Sc_YJM689_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM689
+1294322	Saccharomyces_cerevisiae_yjm693.Sc_YJM693_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM693
+307796	Saccharomyces_cerevisiae_yjm789.ASM18143v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM789
+1294323	Saccharomyces_cerevisiae_yjm969.Sc_YJM969_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM969
+1294324	Saccharomyces_cerevisiae_yjm972.Sc_YJM972_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM972
+1294325	Saccharomyces_cerevisiae_yjm975.Sc_YJM975_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM975
+1294326	Saccharomyces_cerevisiae_yjm978.Sc_YJM978_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM978
+1294327	Saccharomyces_cerevisiae_yjm981.Sc_YJM981_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM981
+1294328	Saccharomyces_cerevisiae_yjm984.Sc_YJM984_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM984
+1294329	Saccharomyces_cerevisiae_yjm987.Sc_YJM987_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM987
+1294330	Saccharomyces_cerevisiae_yjm990.Sc_YJM990_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM990
+1294331	Saccharomyces_cerevisiae_yjm993.Sc_YJM993_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM993
+1294332	Saccharomyces_cerevisiae_yjm996.Sc_YJM996_v1.dna.toplevel.fa.gz	Saccharomyces cerevisiae YJM996
+1080349	Saccharomyces_eubayanus.SEUB3.0.dna.toplevel.fa.gz	Saccharomyces eubayanus
+226230	Saccharomyces_kudriavzevii_ifo_1802.Saccharomyces_kudriavzevii_strain_IFO1802_v1.0.dna.toplevel.fa.gz	Saccharomyces kudriavzevii IFO 1802
+252598	Saccharomyces_sp_boulardii_.ASM129837v2.dna.toplevel.fa.gz	Saccharomyces sp. 'boulardii'
+252598	Saccharomyces_sp_boulardii__gca_001413975.ASM141397v1.dna.toplevel.fa.gz	Saccharomyces sp. 'boulardii'
+566037	Saccharomycetaceae_sp_ashbya_aceri_.ASM41222v2.dna.toplevel.fa.gz	Saccharomycetaceae sp. 'Ashbya aceri'
+698492	Saitoella_complicata_nrrl_y_17804_gca_001661265.Saico1.dna.toplevel.fa.gz	Saitoella complicata NRRL Y-17804
+698492	Saitoella_complicata_nrrl_y_17804.Scomplicata_3.0.dna.toplevel.fa.gz	Saitoella complicata NRRL Y-17804
+563466	Scedosporium_apiospermum.ScApio1.0.dna.toplevel.fa.gz	Scedosporium apiospermum
+322104	Scheffersomyces_stipitis_cbs_6054.ASM20916v1.dna.toplevel.fa.gz	Scheffersomyces stipitis CBS 6054
+578458	Schizophyllum_commune_h4_8.v1.0.dna.toplevel.fa.gz	Schizophyllum commune H4-8
+27342	Schizopora_paradoxa.Schpa1.dna.toplevel.fa.gz	Schizopora paradoxa
+653667	Schizosaccharomyces_cryophilus.GCA_000004155.2.dna.toplevel.fa.gz	Schizosaccharomyces cryophilus OY26
+402676	Schizosaccharomyces_japonicus.GCA_000149845.2.dna.toplevel.fa.gz	Schizosaccharomyces japonicus yFS275
+483514	Schizosaccharomyces_octosporus.GCA_000150505.2.dna.toplevel.fa.gz	Schizosaccharomyces octosporus yFS286
+284812	Schizosaccharomyces_pombe.ASM294v2.dna_rm.toplevel.fa.gz	Schizosaccharomyces pombe 972h-
+1036808	Scleroderma_citrinum_foug_a.Scleroderma_citrinum_Foug_A_v1.0.dna.toplevel.fa.gz	Scleroderma citrinum Foug A
+1432307	Sclerotinia_borealis_f_4128.SBOR_1.dna.toplevel.fa.gz	Sclerotinia borealis F-4128
+665079	Sclerotinia_sclerotiorum_1980_uf_70.ASM185786v1.dna.toplevel.fa.gz	Sclerotinia sclerotiorum 1980 UF-70
+665079	Sclerotinia_sclerotiorum.ASM14694v1.dna.toplevel.fa.gz	Sclerotinia sclerotiorum 1980 UF-70
+1109443	Serendipita_indica_dsm_11827.ASM31354v1.dna.toplevel.fa.gz	Serendipita indica DSM 11827
+933852	Serendipita_vermifera_maff_305830.Sebacina_vermifera_MAFF_305830_v1.0.dna.toplevel.fa.gz	Serendipita vermifera MAFF 305830
+936435	Serpula_lacrymans_var_lacrymans_s7_3.v1.0.dna.toplevel.fa.gz	Serpula lacrymans var. lacrymans S7.3
+578457	Serpula_lacrymans_var_lacrymans_s7_9.v1.0.dna.toplevel.fa.gz	Serpula lacrymans var. lacrymans S7.9
+671987	Setosphaeria_turcica_et28a.Setospaeria_trucica_Et28A_v1.0.dna.toplevel.fa.gz	Exserohilum turcica Et28A
+1314777	Sistotremastrum_niveocremeum_hhb9708.Sisni1.dna.toplevel.fa.gz	Sistotremastrum niveocremeum HHB9708
+1314776	Sistotremastrum_suecicum_hhb10207_ss_3.Sissu1.dna.toplevel.fa.gz	Sistotremastrum suecicum HHB10207 ss-3
+771870	Sordaria_macrospora.ASM18280v2.dna.toplevel.fa.gz	Sordaria macrospora k-hell
+619300	Spathaspora_passalidarum_nrrl_y_27907.Spathaspora_passalidarum_v2.0.dna.toplevel.fa.gz	Spathaspora passalidarum NRRL Y-27907
+990650	Sphaerobolus_stellatus_ss14.Sphst1.dna.toplevel.fa.gz	Sphaerobolus stellatus SS14
+692275	Sphaerulina_musiva_so2202.Septoria_musiva_SO2202_v1.0.dna.toplevel.fa.gz	Sphaerulina musiva SO2202
+645134	Spizellomyces_punctatus_daom_br117.S_punctatus_V1.dna.toplevel.fa.gz	Spizellomyces punctatus DAOM BR117
+5005	Sporidiobolus_salmonicolor.SPOSA68321A01.dna.toplevel.fa.gz	Sporidiobolus salmonicolor
+999809	Sporisorium_reilianum.GCA_000230245.1.dna.toplevel.fa.gz	Sporisorium reilianum SRZ2
+49012	Sporisorium_scitamineum.Sporisorium_scitamineum.dna.toplevel.fa.gz	Sporisorium scitamineum
+1398154	Sporothrix_brasiliensis_5110.S_brasiliensis_5110_v1.dna.toplevel.fa.gz	Sporothrix brasiliensis 5110
+1081102	Sporothrix_insectorum_rcef_264.SPI_1.0.dna.toplevel.fa.gz	Sporothrix insectorum RCEF 264
+1397361	Sporothrix_schenckii_1099_18.S_schenckii_v1.dna.toplevel.fa.gz	Sporothrix schenckii 1099-18
+1391915	Sporothrix_schenckii_atcc_58251.Spor_sche_ATCC58251_V1.dna.toplevel.fa.gz	Sporothrix schenckii ATCC 58251
+1358809	Spraguea_lophii_42_110.Sprlop1.0.dna.toplevel.fa.gz	Spraguea lophii 42_110
+1283842	Stachybotrys_chartarum_ibt_40288.S40288v1.dna.toplevel.fa.gz	Stachybotrys chartarum IBT 40288
+1280524	Stachybotrys_chartarum_ibt_40293.S40293v1.dna.toplevel.fa.gz	Stachybotrys chartarum IBT 40293
+1280523	Stachybotrys_chartarum_ibt_7711.S7711v1.dna.toplevel.fa.gz	Stachybotrys chartarum IBT 7711
+1283841	Stachybotrys_chlorohalonata_ibt_40285.S40285v1.dna.toplevel.fa.gz	Stachybotrys chlorohalonata IBT 40285
+765868	Stagonospora_sp_src1lsm3a.Stasp1.dna.toplevel.fa.gz	Stagonospora sp. SRC1lsM3a
+183478	Stemphylium_lycopersici.ASM119154v1.dna.toplevel.fa.gz	Stemphylium lycopersici
+721885	Stereum_hirsutum_fp_91666_ss1.Stehi1.dna.toplevel.fa.gz	Stereum hirsutum FP-91666 SS1
+796027	Sugiyamaella_lignohabitans.ASM164002v2.dna.toplevel.fa.gz	Sugiyamaella lignohabitans
+930992	Suillus_luteus_uh_slu_lm8_n1.Suilu1.dna.toplevel.fa.gz	Suillus luteus UH-Slu-Lm8-n1
+1472165	Talaromyces_cellulolyticus.TcelY94_1.0.dna.toplevel.fa.gz	Talaromyces cellulolyticus
+28573	Talaromyces_islandicus.PIS.dna.toplevel.fa.gz	Talaromyces islandicus
+441960	Talaromyces_marneffei_atcc_18224.JCVI-PMFA1-2.0.dna.toplevel.fa.gz	Talaromyces marneffei ATCC 18224
+1077442	Talaromyces_marneffei_pm1.ASM75011v1.dna.toplevel.fa.gz	Talaromyces marneffei PM1
+441959	Talaromyces_stipitatus_atcc_10500.JCVI-TSTA1-3.0.dna.toplevel.fa.gz	Talaromyces stipitatus ATCC 10500
+1306850	Termitomyces_sp_j132.TerJ1321.0.dna.toplevel.fa.gz	Termitomyces sp. J132
+1071380	Tetrapisispora_blattae_cbs_6284.ASM31591v1.dna.toplevel.fa.gz	Tetrapisispora blattae CBS 6284
+1071381	Tetrapisispora_phaffii_cbs_4417.ASM23690v1.dna.toplevel.fa.gz	Tetrapisispora phaffii CBS 4417
+573729	Thermothelomyces_thermophila_atcc_42464.ASM22609v1.dna.toplevel.fa.gz	Thermothelomyces thermophila ATCC 42464
+578455	Thielavia_terrestris_nrrl_8126.ASM22611v1.dna.toplevel.fa.gz	Thielavia terrestris NRRL 8126
+72032	Thielaviopsis_punctulata.ASM96861v1.dna.toplevel.fa.gz	Thielaviopsis punctulata
+13290	Tilletia_caries.ASM164500v1.dna.toplevel.fa.gz	Tilletia caries
+13291	Tilletia_controversa.ASM164504v1.dna.toplevel.fa.gz	Tilletia controversa
+43049	Tilletia_indica.ASM164501v1.dna.toplevel.fa.gz	Tilletia indica
+1037660	Tilletiaria_anomala_ubc_951.Tilletiaria_anomala_UBC_951_v1.0.dna.toplevel.fa.gz	Tilletiaria anomala UBC 951
+117179	Tilletia_walkeri.ASM164505v1.dna.toplevel.fa.gz	Tilletia walkeri
+1163406	Tolypocladium_ophioglossoides_cbs_100239.Tophv1.0.dna.toplevel.fa.gz	Tolypocladium ophioglossoides CBS 100239
+1531966	Torrubiella_hemipterigena.Allpaths-LG.dna.toplevel.fa.gz	Torrubiella hemipterigena
+767744	Tortispora_caseinolytica_nrrl_y_17796.Canca1.dna.toplevel.fa.gz	Tortispora caseinolytica NRRL Y-17796
+4950	Torulaspora_delbrueckii.ASM24337v1.dna.toplevel.fa.gz	Torulaspora delbrueckii
+72359	Trachipleistophora_hominis.ASM31613v1.dna.toplevel.fa.gz	Trachipleistophora hominis
+5643	Trametes_cinnabarina.BN946.dna.toplevel.fa.gz	Trametes cinnabarina
+154538	Trametes_pubescens.ASM189594v1.dna.toplevel.fa.gz	Trametes pubescens
+717944	Trametes_versicolor_fp_101664_ss1.Trametes_versicolor_v1.0.dna.toplevel.fa.gz	Trametes versicolor FP-101664 SS1
+578456	Tremella_mesenterica_dsm_1558.Treme1.dna.toplevel.fa.gz	Tremella mesenterica DSM 1558
+452589	Trichoderma_atroviride_imi_206040.TRIAT_v2.0.dna.toplevel.fa.gz	Trichoderma atroviride IMI 206040
+398673	Trichoderma_gamsii.ASM148177v1.dna.toplevel.fa.gz	Trichoderma gamsii
+1491466	Trichoderma_guizhouense.ASM202278v1.dna.toplevel.fa.gz	Trichoderma guizhouense
+5544	Trichoderma_harzianum.ASM98886v1.dna.toplevel.fa.gz	Trichoderma harzianum
+431241	Trichoderma_reesei.GCA_000167675.2.dna.toplevel.fa.gz	Trichoderma reesei QM6a
+1344414	Trichoderma_reesei_rut_c_30.TrireRUTC30_1.dna.toplevel.fa.gz	Trichoderma reesei RUT C-30
+413071	Trichoderma_virens.ASM17099v1.dna.toplevel.fa.gz	Trichoderma virens Gv29-8
+663331	Trichophyton_benhamiae_cbs_112371.ASM15112v2.dna.toplevel.fa.gz	Trichophyton benhamiae CBS 112371
+559882	Trichophyton_equinum_cbs_127_97.ASM15117v1.dna.toplevel.fa.gz	Trichophyton equinum CBS 127.97
+1215336	Trichophyton_interdigitale_h6.Tric_rubr_H6_V2.dna.toplevel.fa.gz	Trichophyton interdigitale H6
+1215338	Trichophyton_interdigitale_mr816.Tric_inte_MR816_V1.dna.toplevel.fa.gz	Trichophyton interdigitale MR816
+1215328	Trichophyton_rubrum_cbs_100081.Tric_fish_CBS_100081_V1.dna.toplevel.fa.gz	Trichophyton rubrum CBS 100081
+559305	Trichophyton_rubrum_cbs_118892.ASM15142v1.dna_sm.toplevel.fa.gz	Trichophyton rubrum CBS 118892
+1215334	Trichophyton_rubrum_cbs_202_88.Tric_raub_CBS_202_88_V2.dna.toplevel.fa.gz	Trichophyton rubrum CBS 202.88
+1215330	Trichophyton_rubrum_cbs_288_86.Tric_fish_CBS_288_86_V1.dna.toplevel.fa.gz	Trichophyton rubrum CBS 288.86
+1215329	Trichophyton_rubrum_cbs_289_86.Tric_kane_CBS_289_86_V1.dna.toplevel.fa.gz	Trichophyton rubrum CBS 289.86
+1215332	Trichophyton_rubrum_cbs_735_88.Tric_megn_CBS_735_88_V1.dna.toplevel.fa.gz	Trichophyton rubrum CBS 735.88
+5551	Trichophyton_rubrum.CMCC_F_T1i.dna.toplevel.fa.gz	Trichophyton rubrum
+1215335	Trichophyton_rubrum_d6.Tric_rubr_D6_V1.dna.toplevel.fa.gz	Trichophyton rubrum D6
+1215339	Trichophyton_rubrum_mr1448.Tric_rubr_M1448_V1.dna.toplevel.fa.gz	Trichophyton rubrum MR1448
+1215341	Trichophyton_rubrum_mr1459.Tric_rubr_MR1459_V1.dna.toplevel.fa.gz	Trichophyton rubrum MR1459
+1215337	Trichophyton_rubrum_mr850.Tric_rubr_MR-850_V1.dna.toplevel.fa.gz	Trichophyton rubrum MR850
+1215331	Trichophyton_soudanense_cbs_452_61.Tric_soud_CBS_452_61_V1.dna.toplevel.fa.gz	Trichophyton soudanense CBS 452.61
+647933	Trichophyton_tonsurans_cbs_112818.ASM15145v1.dna.toplevel.fa.gz	Trichophyton tonsurans CBS 112818
+663202	Trichophyton_verrucosum_hki_0517.ASM15150v1.dna.toplevel.fa.gz	Trichophyton verrucosum HKI 0517
+34388	Trichophyton_violaceum.CMCC_F_T3l.dna.toplevel.fa.gz	Trichophyton violaceum
+1186058	Trichosporon_asahii_var_asahii_cbs_2479.Trichosporon_asahii_1.dna.toplevel.fa.gz	Trichosporon asahii var. asahii CBS 2479
+1220162	Trichosporon_asahii_var_asahii_cbs_8904.ASM29921v2.dna.toplevel.fa.gz	Trichosporon asahii var. asahii CBS 8904
+1295528	Tsuchiyaea_wingfieldii_cbs_7118.Tsuc_wing_CBS7118_V1.dna.toplevel.fa.gz	Tsuchiyaea wingfieldii CBS 7118
+656061	Tuber_melanosporum.ASM15164v1.dna.toplevel.fa.gz	Tuber melanosporum Mel28
+1051891	Tulasnella_calospora_mut_4182.Tulasnella_calospora_AL13_4D_v1.0.dna.toplevel.fa.gz	Tulasnella calospora MUT 4182
+136370	Umbilicaria_pustulata.Lasallia_pustulata_v1.dna.toplevel.fa.gz	Umbilicaria pustulata
+336963	Uncinocarpus_reesii_1704.ASM351v2.dna.toplevel.fa.gz	Uncinocarpus reesii 1704
+1159556	Ustilaginoidea_virens.Assembly_for_version_1_of_the_Villosiclava_virens_genome.dna.toplevel.fa.gz	Ustilaginoidea virens
+1159556	Ustilaginoidea_virens_gca_000965225.ASM96522v2.dna.toplevel.fa.gz	Ustilaginoidea virens
+307758	Ustilago_bromivora.UBRO_v3.dna.toplevel.fa.gz	Ustilago bromivora
+120017	Ustilago_hordei.ASM28603v1.dna.toplevel.fa.gz	Ustilago hordei
+237631	Ustilago_maydis.Umaydis521_2.0.dna.toplevel.fa.gz	Ustilago maydis 521
+105487	Valsa_mali.ASM81815v1.dna.toplevel.fa.gz	Valsa mali
+694573	Valsa_mali_var_pyri.ASM81338v1.dna.toplevel.fa.gz	Valsa mali var. pyri
+436907	Vanderwaltozyma_polyspora_dsm_70294.ASM15003v1.dna.toplevel.fa.gz	Vanderwaltozyma polyspora DSM 70294
+948595	Vavraia_culicis_subsp_floridensis.Vavr_culi_floridensis_V1.dna.toplevel.fa.gz	Vavraia culicis subsp. floridensis
+253628	Verruconis_gallopava.O_gall_CBS43764.dna.toplevel.fa.gz	Verruconis gallopava
+526221	Verticillium_alfalfae_vams_102.ASM15082v1.dna.toplevel.fa.gz	Verticillium alfalfae VaMs.102
+498257	Verticillium_dahliae.ASM15067v2.dna.toplevel.fa.gz	Verticillium dahliae VdLs.17
+1202531	Verticillium_dahliaejr2.VDAG_JR2v.4.0.dna.toplevel.fa.gz	Verticillium dahliae JR2
+100787	Verticillium_longisporum_gca_001268145.vl1.denovo.v1.dna.toplevel.fa.gz	Verticillium longisporum
+100787	Verticillium_longisporum.vl2.denovo.v1.dna.toplevel.fa.gz	Verticillium longisporum
+993615	Vittaforma_corneae_atcc_50505.Vitt_corn_V1.dna.toplevel.fa.gz	Vittaforma corneae ATCC 50505
+1299270	Wallemia_ichthyophaga_exf_994.Wallemia_ichthyophaga_version_1.0.dna.toplevel.fa.gz	Wallemia ichthyophaga EXF-994
+671144	Wallemia_mellicola_cbs_633_66.Wallemia_sebi_v1.0.dna.toplevel.fa.gz	Wallemia mellicola CBS 633.66
+683960	Wickerhamomyces_anomalus_nrrl_y_366_8.Wican1.dna.toplevel.fa.gz	Wickerhamomyces anomalus NRRL Y-366-8
+1041607	Wickerhamomyces_ciferrii.ASM31348v1.dna.toplevel.fa.gz	Wickerhamomyces ciferrii
+5421	Xanthophyllomyces_dendrorhous.Xden1.dna.toplevel.fa.gz	Xanthophyllomyces dendrorhous
+1328760	Xylona_heveae_tc161.Xylona_heveae_TC161_v1.0.dna.toplevel.fa.gz	Xylona heveae TC161
+284591	Yarrowia_lipolytica.GCA_000002525.1.dna.toplevel.fa.gz	Yarrowia lipolytica CLIB122
+4952	Yarrowia_lipolytica_gca_001761485.ASM176148v1.dna.toplevel.fa.gz	Yarrowia lipolytica
+1355161	Zygosaccharomyces_bailii_isa1307.Z_bailii_ISA1307_version_3.dna.toplevel.fa.gz	Zygosaccharomyces bailii ISA1307
+1365886	Zygosaccharomyces_parabailii.ASM198439v2.dna.toplevel.fa.gz	Zygosaccharomyces parabailii
+4956	Zygosaccharomyces_rouxii.ASM2636v1.dna.toplevel.fa.gz	Zygosaccharomyces rouxii
+4956	Zygosaccharomyces_rouxii_gca_001972345.ZYGR_assembly01.dna.toplevel.fa.gz	Zygosaccharomyces rouxii
+1047168	Zymoseptoria_brevis.ASM96659v1.dna.toplevel.fa.gz	Zymoseptoria brevis
+336722	Zymoseptoria_tritici.MG2.dna.toplevel.fa.gz	Zymoseptoria tritici IPO323
