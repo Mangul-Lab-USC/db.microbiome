@@ -8,7 +8,7 @@ python /u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/fungi_stats_db_hoffma
 
 
 
-# qsub -cwd -V -N fungiStats -l h_data=24G,highp,time=24:00:00 run_fungi_stats.sh
+# qsub -m bea -cwd -V -N fungiStats -l h_data=24G,highp,time=24:00:00 run_fungi_stats.sh
 
 
 # qsub -cwd -V -N test -l h_data=24G,highp,time=10:00:00 run.sh
