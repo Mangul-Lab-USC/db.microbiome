@@ -28,25 +28,29 @@ def make_list_and_parse_lines_from_document(filename, parse_by):
 # returns a dictionary
 
 
-def make_list_of_lists_into_dictionary(list_of_lists, placek, placev):
+def make_list_of_lists_into_dictionary(list_of_lists, placek, placev, placet):
     dict = {}
     for i in list_of_lists:
         if not i[placek] in dict.keys():  # make new key
             dict[i[placek]] = [i[placev]]
         else:
-            dict[i[placek]] += [i[placev]]
+        	dict[i[placek]] += [i[placev]]
+        dict[i[placek]] += [i[placet]]
+        # print(i[placet])
     return dict
 
 # Set up the variables
 # The names of the text files that hold the csv styled lists matching taxID's to filenames.
-# onek_filename = "/u/home/a/akarlsbe/scratch/fungi/code/1k_taxid_filenames.txt" # This one is a list of directories, so must be treated differently
-# ensembl_filename = "/u/home/a/akarlsbe/scratch/fungi/code/ensembl_taxID_filename.txt"
-# ncbi_filename = "/u/home/a/akarlsbe/scratch/fungi/code/NCBI_taxID_list.txt"
+onek_filename = "/u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/updated_onek_csv.txt" # This one is a list of directories, so must be treated differently
+ensembl_filename = "/u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/updated_ensembl_csv.txt"
+ncbi_filename = "/u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/NCBI_taxID_list.txt"
 
 # onek_filename = "/u/home/a/akarlsbe/scratch/fungi/code/1k_taxid_filenames.txt" # This one is a list of directories, so must be treated differently
-onek_filename = '/Users/aaronkarlsberg/Desktop/199/Code/new_1k_taxid_filenames.txt'
-ensembl_filename = "/Users/aaronkarlsberg/Desktop/199/Code/ensembl_taxID_filename.txt"
-ncbi_filename = "/Users/aaronkarlsberg/Desktop/199/Code/NCBI_taxID_list.txt"
+# 
+
+# onek_filename = '/Users/aaronkarlsberg/Desktop/db.microbiome/Code/updated_onek_csv.txt'
+# ensembl_filename = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/updated_ensembl_csv.txt"
+# ncbi_filename = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/NCBI_taxID_list.txt"
 
       
 
@@ -57,15 +61,22 @@ ncbi_csv = make_list_and_parse_lines_from_document(ncbi_filename, "\t")
 ensembl_csv = make_list_and_parse_lines_from_document(ensembl_filename, "\t")
 
     # turn the csv lists into dictionaries for easier taxID matching
-# reminder: placek = position of taxid and placev = position of filename
-onek_dict = make_list_of_lists_into_dictionary(onek_csv, 1, 0)
-ncbi_dict = make_list_of_lists_into_dictionary(ncbi_csv, 0, 2)
-ensembl_dict = make_list_of_lists_into_dictionary(ensembl_csv, 1, 0)
-#
+# # reminder: placek = position of taxid and placev = position of filename
+onek_dict = make_list_of_lists_into_dictionary(onek_csv, 1, 0, 3)
+ncbi_dict = make_list_of_lists_into_dictionary(ncbi_csv, 0, 2, 1)
+ensembl_dict = make_list_of_lists_into_dictionary(ensembl_csv, 1, 0, 2)
+
+
+# print(ncbi_dict.keys())
+# print(onek_dict.keys())
+# print(ensembl_dict.keys())
+
+# print(ncbi_dict)
+# print(ensembl_dict)
 
 # print(ncbi_dict["Settu3_AssemblyScaffolds_Repeatmasked.fasta.gz"])
 
-conn = sqlite3.connect('refSeqBacteriaStats.db')
+conn = sqlite3.connect('refSeqFungiStats.db')
 c = conn.cursor()
 
 
@@ -93,8 +104,8 @@ def create_table():
 
 def make_array_of_file_paths():
 	filesToParse = []
-	# filePathList = "/u/home/a/akarlsbe/scratch/fungi/code/filepaths.list"
-	filePathList = "/Users/aaronkarlsberg/Desktop/199/Code/filepaths.list"
+	filePathList = "/u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/filepaths.list"
+	# filePathList = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/filepaths.list"
 	with open(filePathList) as f:
                 for line in f:
                         filesToParse.append(line)
@@ -158,23 +169,43 @@ def parse_file(filePath):
 # modify filename from dictionaries to compare. add gz
 	fileName = re.search(r'^(.+)/([^/]+)$', filePath).group(2).strip()+'.gz'
 
+
 	# extract TAXID FROM DICTIONARIES
 	if fileName in ncbi_dict.keys():
 		seqAttributes["TAXID"] = int(ncbi_dict[fileName][0])
+		# print(ncbi_dict[fileName][1])
+		seqAttributes["GENUSNAME"] = ncbi_dict[fileName][1].split(' ', 1)[0].lower()
+		if len(ncbi_dict[fileName][1].split(' ', 1)) > 1:
+			seqAttributes["SPECIESNAME"] = ncbi_dict[fileName][1].split(' ', 1)[1].lower()
+		else:
+			seqAttributes["SPECIESNAME"] = "species name not provided"
+
 
 	if fileName in onek_dict.keys():
 		seqAttributes["TAXID"] = int(onek_dict[fileName][0])
+		# print(onek_dict[fileName][1])
+		seqAttributes["GENUSNAME"] = onek_dict[fileName][1].split(' ', 1)[0].lower()
+		if len(onek_dict[fileName][1].split(' ', 1)) > 1:
+			seqAttributes["SPECIESNAME"] = onek_dict[fileName][1].split(' ', 1)[1].lower()
+		else:
+			seqAttributes["SPECIESNAME"] = "species name not provided"
 
 	if fileName in ensembl_dict.keys():
 		seqAttributes["TAXID"] = int(ensembl_dict[fileName][0])
-		# print(ensembl_dict[fileName])
-	# print("HELLOOOO")
+		# print(ensembl_dict[fileName][1].split(' ', 1)[0].lower())
+		# print(ensembl_dict[fileName][1].split(' ', 1)[1].lower())
+		seqAttributes["GENUSNAME"] = ensembl_dict[fileName][1].split(' ', 1)[0].lower()
+		if len(ensembl_dict[fileName][1].split(' ', 1)) > 1:
+			seqAttributes["SPECIESNAME"] = ensembl_dict[fileName][1].split(' ', 1)[1].lower()
+		else:
+			seqAttributes["SPECIESNAME"] = "species name not provided"
+	
 
 
 
 
 # open individual sequence file and determine following attributes:
-	with open(filePath) as f:
+	with open(filePath.strip()) as f:
 		for line in f:
 # determine what type of dna is present in following sequence and increment count of sequences for dna type in file.: 
 			dnaCategories = re.findall(r"Mt", line) # where we dont ignore case for mt 
@@ -185,7 +216,7 @@ def parse_file(filePath):
 			contig = False
 			# print("HELLOOOO")
 
-# determine all categories which are marked true. loop through categories array.
+# # determine all categories which are marked true. loop through categories array.
 			for category in dnaCategories:
 				if helper.is_mitochnondria(category):
 					mitochondria = True
@@ -200,8 +231,8 @@ def parse_file(filePath):
 					chromosome = True
 					# print("chromosome")
 
-	# mark sequence according to priority as follows. Chromosome is last bc it is used in name even when the sequence is only a contig or scaffold.
-	# mark line number and compare current count of nucleotides to 
+# 	# mark sequence according to priority as follows. Chromosome is last bc it is used in name even when the sequence is only a contig or scaffold.
+# 	# mark line number and compare current count of nucleotides to 
 			if mitochondria:
 				seqAttributes["mtDNA_count"] += 1
 				helper.determine_sequence_lengths(prev_dna_type, nucleotide_count, chrom_lengths, mt_lengths, plasmid_lengths, contig_lengths)
@@ -269,7 +300,7 @@ def parse_file(filePath):
 			sum_contig_lengths += lengths
 		seqAttributes["avg_length_contig"] = sum_contig_lengths / seqAttributes["contig_count"]
 
-	print(seqAttributes)
+	# print(seqAttributes)
 	return seqAttributes
 
 
@@ -284,10 +315,10 @@ def populate_tables(filesToParse):
 # function calls:
 create_table()
 
-# filesToParse = make_array_of_file_paths()
+filesToParse = make_array_of_file_paths()
 
 # test on one fasta fungi file
-filesToParse = ["/Users/aaronkarlsberg/Desktop/199/Code/fungifastas/Allomyces_macrogynus_atcc_38327.A_macrogynus_V3.dna.toplevel.fa"]
+# filesToParse = ["/Users/aaronkarlsberg/Desktop/199/Code/fungifastas/Allomyces_macrogynus_atcc_38327.A_macrogynus_V3.dna.toplevel.fa"]
 
 # print(filesToParse)
 populate_tables(filesToParse)
