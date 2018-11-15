@@ -3,9 +3,9 @@
 
 
 def generate_alignment():
-
-	aa = 1
+	return
 
 
 def generate_consensus():
-	bb = 1
+	return 
+	
