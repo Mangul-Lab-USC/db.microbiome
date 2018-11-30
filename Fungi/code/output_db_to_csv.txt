@@ -1,0 +1,20 @@
+sqlite3 refSeqFungiStats.db
+.headers on
+.mode csv
+.output NCBI_FUNGI_STATS.csv
+SELECT * from speciesdb where DBNAME = 'NCBI';
+.quit
+
+sqlite3 refSeqFungiStats.db
+.headers on
+.mode csv
+.output 1K_FUNGI_STATS.csv
+SELECT * from speciesdb where DBNAME = '1K';
+.quit
+
+sqlite3 refSeqFungiStats.db
+.headers on
+.mode csv
+.output ENSEMBLE_FUNGI_STATS.csv
+SELECT * from speciesdb where DBNAME = 'ENSEMBLE';
+.quit

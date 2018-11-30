@@ -1,0 +1,3 @@
+expections to revisist
+
+any instance in the species db where tax_id is still zero
