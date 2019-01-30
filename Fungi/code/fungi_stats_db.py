@@ -82,7 +82,7 @@ c = conn.cursor()
 
 def create_table():
 	c.execute("CREATE TABLE IF NOT EXISTS SPECIESDB(TAXID INT, GENUSNAME TEXT, SPECIESNAME TEXT, STRAIN TEXT, DBNAME TEXT, FILEPATH TEXT, chromosome_count INT, avg_length_chromosomes INT, max_length_chromosomes INT, min_length_chromosomes INT, contig_count INT, avg_length_contig INT, max_length_contig INT, min_length_contig INT, mtDNA_count INT, avg_length_mtDNA INT, max_length_mtDNA INT, min_length_mtDNA INT, plasmid_count INT, avg_length_plasmids INT, max_length_plasmids INT, min_length_plasmids INT)")
-	conn.commit()
+	conn.commit()	
 
 # Make function that reads each reference sequence file in each databse and:
 # - looks at taxid, which database, if there is MTDNA, singlechromosme, contig etc and inserts into table.
@@ -323,3 +323,5 @@ filesToParse = make_array_of_file_paths()
 # print(filesToParse)
 populate_tables(filesToParse)
 conn.close()
+
+
