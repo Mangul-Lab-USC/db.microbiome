@@ -42,7 +42,8 @@ from ete3 import NCBITaxa
 # This code does the following:
 # ensures that species level SPECIESTAXIDs are associated with species, and strain SPECIESTAXID with strain.
 # uses ncbi naming scheme to ensure all identical genus, species, and strains have consistent names.
-
+cursor.execute('''UPDATE books SET price = ? WHERE id = ?''', (newPrice, book_id))
+c.execute("INSERT INTO SPECIESDB VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (seqAttributes["TAXID"], seqAttributes["GENUSNAME"], seqAttributes["SPECIESNAME"], seqAttributes["STRAIN"], seqAttributes["DBNAME"], seqAttributes["FILEPATH"], seqAttributes["chromosome_count"], seqAttributes["avg_length_chromosomes"], seqAttributes["max_length_chromosomes"], seqAttributes["min_length_chromosomes"], seqAttributes["contig_count"], seqAttributes["avg_length_contig"], seqAttributes["max_length_contig"], seqAttributes["min_length_contig"], seqAttributes["mtDNA_count"], seqAttributes["avg_length_mtDNA"], seqAttributes["max_length_mtDNA"], seqAttributes["min_length_mtDNA"], seqAttributes["plasmid_count"], seqAttributes["avg_length_plasmids"], seqAttributes["max_length_plasmids"], seqAttributes["min_length_plasmids"]))
 
 def UPDATE_TAXIDS_AND_NAMES(conn, c):
 	speciesTaxIds = c.execute("SELECT SPECIESTAXID from SPECIESDB")
@@ -52,23 +53,23 @@ def UPDATE_TAXIDS_AND_NAMES(conn, c):
 		ncbi_version_name = ncbi_taxa.get_taxid_translator(taxId)
 		rank = ncbi_taxa.get_rank(ncbi_version_name)
 		if rank == 'genus':
-			c.execute("UPDATE SPECIESDB set GENUSNAME = {ncbi_version_name}, GENUSTAXID = {taxId}, SPECIESTAXID = 0,  WHERE SPECIESTAXID = {taxId}")
+			c.execute("UPDATE SPECIESDB set GENUSNAME = ?, GENUSTAXID = ?, SPECIESTAXID = 0,  WHERE SPECIESTAXID = ?", (ncbi_version_name, taxId, taxId))
 			conn.commit()
 		if rank == 'species':
-			c.execute("UPDATE SPECIESDB set SPECIESNAME = {ncbi_version_name} WHERE SPECIESTAXID = {taxId}")
+			c.execute("UPDATE SPECIESDB set SPECIESNAME = ? WHERE SPECIESTAXID = ?", (ncbi_version_name, taxId))
 			conn.commit()
 			genusID = ncbi_taxa.get_lineage(taxId)[-2]
 			genusName = ncbi_taxa.get_taxid_translator(genusID)
-			c.execute("UPDATE SPECIESDB set GENUSTAXID = {genusID}, GENUSNAME = {genusName} WHERE SPECIESTAXID = {taxId}")
+			c.execute("UPDATE SPECIESDB set GENUSTAXID = ?, GENUSNAME = ? WHERE SPECIESTAXID = ?", (genusID, genusName, taxId))
 			conn.commit()
 		if rank == 'no rank':
-			c.execute("UPDATE SPECIESDB set STRAINNAME = {ncbi_version_name}, STRAINTAXID = {taxId}, SPECIESTAXID = 0, WHERE SPECIESTAXID = {taxId}")
+			c.execute("UPDATE SPECIESDB set STRAINNAME = ?, STRAINTAXID = ?, SPECIESTAXID = 0, WHERE SPECIESTAXID = ?", (ncbi_version_name, taxId, taxId))
 			conn.commit()
 			speciesID = ncbi_taxa.get_lineage(taxId)[-2]
 			speciesName = ncbi_taxa.get_taxid_translator(speciesID)
 			genusID = ncbi_taxa.get_lineage(taxId)[-3]
 			genusName = ncbi_taxa.get_taxid_translator(genusID)
-			c.execute("UPDATE SPECIESDB set SPECIESTAXID = {speciesID}, SPECIESNAME = {speciesName}, GENUSTAXID = {genusID}, GENUSNAME = {genusName} WHERE STRAINTAXID = {taxId}")
+			c.execute("UPDATE SPECIESDB set SPECIESTAXID = ?, SPECIESNAME = ?, GENUSTAXID = ?, GENUSNAME = ? WHERE STRAINTAXID = ?", (speciesID, speciesName, genusID, genusName, taxId))
 			conn.commit()
 			# # # # # # # # # # # #  error handling # # # # # # # # # # # #
 			if ncbi_taxa.get_rank(genusID) != 'genus':
