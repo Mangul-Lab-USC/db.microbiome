@@ -38,4 +38,5 @@ mtdna = re.findall(r"Mt|mitochondrial|mitochondrion", line, re.I)
 mtdna
 
 
+For viruses and bacteria, make sure to update the database construction to account for taxids and naming.
 

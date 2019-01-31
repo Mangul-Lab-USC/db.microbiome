@@ -52,7 +52,8 @@ onek_filename = '/Users/aaronkarlsberg/Desktop/db.microbiome/Code/updated_onek_c
 ensembl_filename = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/updated_ensembl_csv.txt"
 ncbi_filename = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/NCBI_taxID_list.txt"
 
-      
+
+
 
 # Use the functions
 # make the csv files into list of lists
@@ -65,6 +66,7 @@ ensembl_csv = make_list_and_parse_lines_from_document(ensembl_filename, "\t")
 onek_dict = make_list_of_lists_into_dictionary(onek_csv, 1, 0, 3)
 ncbi_dict = make_list_of_lists_into_dictionary(ncbi_csv, 0, 2, 1)
 ensembl_dict = make_list_of_lists_into_dictionary(ensembl_csv, 1, 0, 2)
+
 
 
 # print(ncbi_dict.keys())
