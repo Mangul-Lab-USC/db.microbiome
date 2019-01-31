@@ -43,23 +43,41 @@ from ete3 import NCBITaxa
 # ensures that species level SPECIESTAXIDs are associated with species, and strain SPECIESTAXID with strain.
 # uses ncbi naming scheme to ensure all identical genus, species, and strains have consistent names.
 
+
+def UPDATE_TAXIDS_AND_NAMES(conn, c):
+	speciesTaxIds = c.execute("SELECT SPECIESTAXID from SPECIESDB")
+	ncbi_taxa = NCBITaxa()
+	for index, row in speciesTaxIds.iterrows():
+		taxId = row["SPECIESTAXID"]
+		ncbi_version_name = ncbi_taxa.get_taxid_translator(taxId)
+		rank = ncbi_taxa.get_rank(ncbi_version_name)
+		if rank == 'genus':
+			c.execute("UPDATE SPECIESDB set GENUSNAME = {ncbi_version_name}, GENUSTAXID = {taxId}, SPECIESTAXID = 0,  WHERE SPECIESTAXID = {taxId}")
+			conn.commit()
+		if rank == 'species':
+			c.execute("UPDATE SPECIESDB set SPECIESNAME = {ncbi_version_name} WHERE SPECIESTAXID = {taxId}")
+			conn.commit()
+			genusID = ncbi_taxa.get_lineage(taxId)[-2]
+			genusName = ncbi_taxa.get_taxid_translator(genusID)
+			c.execute("UPDATE SPECIESDB set GENUSTAXID = {genusID}, GENUSNAME = {genusName} WHERE SPECIESTAXID = {taxId}")
+			conn.commit()
+		if rank == 'no rank':
+			c.execute("UPDATE SPECIESDB set STRAINNAME = {ncbi_version_name}, STRAINTAXID = {taxId}, SPECIESTAXID = 0, WHERE SPECIESTAXID = {taxId}")
+			conn.commit()
+			speciesID = ncbi_taxa.get_lineage(taxId)[-2]
+			speciesName = ncbi_taxa.get_taxid_translator(speciesID)
+			genusID = ncbi_taxa.get_lineage(taxId)[-3]
+			genusName = ncbi_taxa.get_taxid_translator(genusID)
+			c.execute("UPDATE SPECIESDB set SPECIESTAXID = {speciesID}, SPECIESNAME = {speciesName}, GENUSTAXID = {genusID}, GENUSNAME = {genusName} WHERE STRAINTAXID = {taxId}")
+			conn.commit()
+			# # # # # # # # # # # #  error handling # # # # # # # # # # # #
+			if ncbi_taxa.get_rank(genusID) != 'genus':
+				print("expected rank failed")
+			# # # # # # # # # # # #  error handling # # # # # # # # # # # #
+
 conn = sqlite3.connect('/Users/aaronkarlsberg/Desktop/199/db.microbiome/Fungi/data/refSeqFungiStats.db')
 c = conn.cursor()
-speciesTaxIds = c.execute("SELECT SPECIESTAXID from SPECIESDB")
+UPDATE_TAXIDS_AND_NAMES(conn, c)
+conn.close()
 
-
-
-def UPDATE_TAXIDS_AND_NAMES(speciesTaxIds)
-    ncbi_taxa = NCBITaxa()
-    for index, row in SPECIESTAXIDs.iterrows():
-        speciesTaxIds = row["SPECIESTAXID"]
-        unfiltered_name = ncbi_taxa.get_SPECIESTAXID_translator(speciesTaxIds)
-        rank = ncbi_taxa.get_rank(unfiltered_name)
-        if rank == 'species':
-				c.execute("UPDATE SPECIESDB")
-
-		
-
-
-	c.commit()
 
