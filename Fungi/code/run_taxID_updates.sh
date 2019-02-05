@@ -3,13 +3,13 @@
 module load python/2.6
 
 
-python /u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/FUNGIDB.py
+python /u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/UpdateDatabase.py
 
 
 # make sh file executable:
-# chmod +x run_FUNGIDB.sh
+# chmod +x run_taxID_updates.sh
 # CD into sh file directory. Then run this command in terminal to submit to hoffman:
-# qsub -m bea -cwd -V -N fungiStats -l h_data=24G,highp,time=24:00:00 run_FUNGIDB.sh
+# qsub -m bea -cwd -V -N taxIdUpdates -l h_data=24G,highp,time=24:00:00 run_taxID_updates.sh
 
 
 # qsub -cwd -V -N test -l h_data=24G,highp,time=10:00:00 run.sh
