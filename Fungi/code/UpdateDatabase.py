@@ -50,7 +50,7 @@ def get_name(taxId):
 	ncbi_taxa = NCBITaxa()
 	name_dict = ncbi_taxa.get_taxid_translator([taxId])
 	for taxid, name in name_dict.items():
-		print(name)
+		# print(name)
 		return name
 
 
@@ -58,7 +58,7 @@ def get_rank(taxId):
 	ncbi_taxa = NCBITaxa()
 	rank_dict = ncbi_taxa.get_rank([taxId])
 	for taxid, rank in rank_dict.items():
-		print(rank)
+		# print(rank)
 		return rank
 
 
@@ -68,28 +68,30 @@ def get_lineage(taxId):
 	lineage = ncbi_taxa.get_lineage(taxId)
 	return lineage
 
-def UPDATE_TAXIDS_AND_NAMES(conn, c):
-	speciesTaxIds = c.execute("SELECT SPECIESTAXID from SPECIESDB")
+def UPDATE_TAXIDS_AND_NAMES():
+	conn = sqlite3.connect('/Users/aaronkarlsberg/Desktop/199/db.microbiome/Fungi/data/new_schema_b4_fungiDB/newSchema_with_updates_no_fungidb/newSchema_b4_fungiDB1.db')
+	c = conn.cursor()
+	c.execute("SELECT SPECIESTAXID from SPECIESDB")
+	speciesTaxIds = c.fetchall()
 	for row in speciesTaxIds:
 		taxId = row[0]
 		ncbi_version_name = get_name(taxId)	
 		rank = get_rank(taxId)
 		if rank == 'genus':
 			print('genus')
-			c.execute("UPDATE SPECIESDB set GENUSNAME = ?, GENUSTAXID = ?, SPECIESTAXID = 0,  WHERE SPECIESTAXID = ?", (ncbi_version_name, taxId, taxId))
+			c.execute("UPDATE SPECIESDB set GENUSNAME = ?, GENUSTAXID = ?, SPECIESTAXID = 0  WHERE SPECIESTAXID = ?", (ncbi_version_name, taxId, taxId))
 			conn.commit()
-		# if rank == 'species':
-		# 	print('species')
-		# 	c.execute("UPDATE SPECIESDB set SPECIESNAME = ? WHERE SPECIESTAXID = ?", (ncbi_version_name, taxId))
-		# 	conn.commit()
-		# 	genusID = get_lineage(taxId)[-2]
-		# 	genusName = get_name(genusID)
-		# 	# genusName = ncbi_taxa.get_taxid_translator(genusID)
-		# 	c.execute("UPDATE SPECIESDB set GENUSTAXID = ?, GENUSNAME = ? WHERE SPECIESTAXID = ?", (genusID, genusName, taxId))
-		# 	conn.commit()
+		if rank == 'species':
+			print('species')
+			c.execute("UPDATE SPECIESDB set SPECIESNAME = ? WHERE SPECIESTAXID = ?", (ncbi_version_name, taxId))
+			conn.commit()
+			genusID = get_lineage(taxId)[-2]
+			genusName = get_name(genusID)
+			c.execute("UPDATE SPECIESDB set GENUSTAXID = ?, GENUSNAME = ? WHERE SPECIESTAXID = ?", (genusID, genusName, taxId))
+			conn.commit()
 		if rank == 'no rank':
 			print('no rank')
-			c.execute("UPDATE SPECIESDB set STRAINNAME = ?, STRAINTAXID = ?, SPECIESTAXID = 0, WHERE SPECIESTAXID = ?", (ncbi_version_name, taxId, taxId))
+			c.execute("UPDATE SPECIESDB set STRAINNAME = ?, STRAINTAXID = ?, SPECIESTAXID = 0 WHERE SPECIESTAXID = ?", (ncbi_version_name, taxId, taxId))
 			conn.commit()
 			speciesID = get_lineage(taxId)[-2]
 			speciesName = get_name(speciesID)
@@ -99,10 +101,11 @@ def UPDATE_TAXIDS_AND_NAMES(conn, c):
 			conn.commit()
 			# # # # # # # # # # #  error handling # # # # # # # # # # # #
 			if get_rank(genusID) != 'genus':
-				print("expected rank failed")
+				print("expected rank failed" + get_rank(genusID))
 			# # # # # # # # # # # #  error handling # # # # # # # # # # # #
+	conn.close()
+
 # # Local:
-conn = sqlite3.connect('/Users/aaronkarlsberg/Desktop/199/db.microbiome/Fungi/data/new_schema_b4_fungiDB/newSchema_with_updates_no_fungidb/newSchema_b4_fungiDB1.db')
 # Make copies of database, convert to proper schema, and make copies again before running this code!
 
 # DB: oldschemaNOfungidb
@@ -111,7 +114,5 @@ conn = sqlite3.connect('/Users/aaronkarlsberg/Desktop/199/db.microbiome/Fungi/da
 # DB: withFUNGIDBNEWSHCEMAANDTAXIDU
 # Hoffman:
 # conn = sqlite3.connect('/u/home/a/akarlsbe/scratch/db.microbiome/Fungi/data/refSeqFungiStats.db')
-c = conn.cursor()
-UPDATE_TAXIDS_AND_NAMES(conn, c)
-conn.close()
+UPDATE_TAXIDS_AND_NAMES()
 
