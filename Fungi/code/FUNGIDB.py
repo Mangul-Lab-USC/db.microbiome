@@ -65,7 +65,7 @@ fungiDB_dict = make_list_of_lists_into_dictionary(fungiDB_csv, 3, 1, 0)
 
 # print(ncbi_dict["Settu3_AssemblyScaffolds_Repeatmasked.fasta.gz"])
 
-conn = sqlite3.connect('fungidb.db')
+conn = sqlite3.connect('/u/home/a/akarlsbe/scratch/db.microbiome/Fungi/data/refSeqFungiStats.db')
 # conn = sqlite3.connect('/Users/aaronkarlsberg/Desktop/fungidb.db')
 c = conn.cursor()
 
