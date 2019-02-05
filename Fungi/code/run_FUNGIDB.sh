@@ -7,7 +7,9 @@ python /u/home/a/akarlsbe/scratch/fungi/db.microbiome/Code/FUNGIDB.py
 
 
 
-
+# make sh file executable:
+# chmod +x run_FUNGIDB.sh
+# CD into sh file directory. Then run this command in terminal to submit to hoffman:
 # qsub -m bea -cwd -V -N fungiStats -l h_data=24G,highp,time=24:00:00 run_FUNGIDB.sh
 
 
