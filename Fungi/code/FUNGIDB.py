@@ -151,13 +151,13 @@ def parse_file(filePath):
 
 # extract DBname from filepath:
 	FUNGIDB = re.search(r'.*/FUNGIDB/.*', filePath)
-	if ENSEMBLE:
+	# if ENSEMBLE:
 		# print("ENSEMBLEEEE")
-		seqAttributes["DBNAME"] = "ENSEMBLE"
-	if ONEK:
-		seqAttributes["DBNAME"] = "1K"
-	if NCBI:
-		seqAttributes["DBNAME"] = "NCBI"
+		# seqAttributes["DBNAME"] = "ENSEMBLE"
+	# if ONEK:
+		# seqAttributes["DBNAME"] = "1K"
+	# if NCBI:
+		# seqAttributes["DBNAME"] = "NCBI"
 	if FUNGIDB:
 		seqAttributes["DBNAME"] = "FUNGIDB"
 
