@@ -60,7 +60,8 @@ fungiDB_filename = "/u/home/a/akarlsbe/scratch/db.microbiome/Fungi/code/Fungidb_
 # ncbi_csv = make_list_and_parse_lines_from_document(ncbi_filename, "\t")
 # ensembl_csv = make_list_and_parse_lines_from_document(ensembl_filename, "\t")
 fungiDB_csv = make_list_and_parse_lines_from_document(fungiDB_filename, "\t")
-    # turn the csv lists into dictionaries for easier taxID matching
+   
+   # turn the csv lists into dictionaries for easier taxID matching
 # # reminder: placek = position of taxid and placev = position of filename
 # onek_dict = make_list_of_lists_into_dictionary(onek_csv, 1, 0, 3)
 # ncbi_dict = make_list_of_lists_into_dictionary(ncbi_csv, 0, 2, 1)
@@ -78,13 +79,13 @@ fungiDB_dict = make_list_of_lists_into_dictionary(fungiDB_csv, 3, 1, 0)
 
 # print(ncbi_dict["Settu3_AssemblyScaffolds_Repeatmasked.fasta.gz"])
 
-conn = sqlite3.connect('refSeqFungiStats.db')
+conn = sqlite3.connect('fungidb.db')
 c = conn.cursor()
 
 
 def create_table():
 	c.execute("CREATE TABLE IF NOT EXISTS SPECIESDB(TAXID INT, GENUSNAME TEXT, SPECIESNAME TEXT, STRAIN TEXT, DBNAME TEXT, FILEPATH TEXT, chromosome_count INT, avg_length_chromosomes INT, max_length_chromosomes INT, min_length_chromosomes INT, contig_count INT, avg_length_contig INT, max_length_contig INT, min_length_contig INT, mtDNA_count INT, avg_length_mtDNA INT, max_length_mtDNA INT, min_length_mtDNA INT, plasmid_count INT, avg_length_plasmids INT, max_length_plasmids INT, min_length_plasmids INT)")
-	conn.commit()	
+	conn.commit()
 
 # Make function that reads each reference sequence file in each databse and:
 # - looks at taxid, which database, if there is MTDNA, singlechromosme, contig etc and inserts into table.
@@ -93,23 +94,15 @@ def create_table():
 # make an array of file paths to parse.
 
 # Run in terminal to compile list of filepaths for unzipped gzfiles. 
-# ls -d "$PWD"/* >> /u/home/a/akarlsbe/scratch/fungi/code/filepaths.list
-# 	onek_path = "/u/home/a/akarlsbe/scratch/fungi/1K" # leads to the list of directories
-# 	ensembl_path = "/u/home/a/akarlsbe/scratch/fungi/ENSEMBLE"
-#	ncbi_path = "/u/home/a/akarlsbe/scratch/fungi/NCBI"
-
-# moves all files in subdirectories of depth 2 into current directory.
-# find . -mindepth 2 -type f -print -exec mv {} . \;
+# ls -d "$PWD"/* >> /u/home/a/akarlsbe/scratch/db.microbiome/Fungi/code/fungidbfilepaths.list
+# fungi_db_files = "/u/home/a/akarlsbe/scratch/fungi/FUNGIDB"
 
 
-fungi_db_path = 
 
-# ls -d "$PWD"/* >> /Users/aaronkarlsberg/Desktop/db.microbiome/Code/aaron.list
 
 def make_array_of_file_paths():
 	filesToParse = []
-	# filePathList = "/u/home/a/akarlsbe/scratch/fungi/code/filepaths.list"
-	filePathList = "/Users/aaronkarlsberg/Desktop/db.microbiome/Code/filepaths.list"
+	filePathList = "/u/home/a/akarlsbe/scratch/db.microbiome/Fungi/code/fungidbfilepaths.list"
 	with open(filePathList) as f:
                 for line in f:
                         filesToParse.append(line)
@@ -157,9 +150,6 @@ def parse_file(filePath):
 	seqAttributes["FILEPATH"] = filePath
 
 # extract DBname from filepath:
-	ENSEMBLE = re.search(r'.*/ENSEMBLE/.*', filePath)
-	ONEK = re.search(r'.*/1K/.*', filePath)
-	NCBI = re.search(r'.*/NCBI/.*', filePath)
 	FUNGIDB = re.search(r'.*/FUNGIDB/.*', filePath)
 	if ENSEMBLE:
 		# print("ENSEMBLEEEE")
@@ -177,7 +167,7 @@ def parse_file(filePath):
 	fileName = re.search(r'^(.+)/([^/]+)$', filePath).group(2).strip()+'.gz'
 
 
-
+	# extract TAXID FROM DICTIONARIES
 	if fileName in fungiDB_dict.keys():
 		seqAttributes["TAXID"] = int(fungiDB_dict[fileName][0])
 		# print(fungiDB_dict[fileName][1])
@@ -189,38 +179,6 @@ def parse_file(filePath):
 
 
 
-
-
-	# extract TAXID FROM DICTIONARIES
-	if fileName in ncbi_dict.keys():
-		seqAttributes["TAXID"] = int(ncbi_dict[fileName][0])
-		# print(ncbi_dict[fileName][1])
-		seqAttributes["GENUSNAME"] = ncbi_dict[fileName][1].split(' ', 1)[0].lower()
-		if len(ncbi_dict[fileName][1].split(' ', 1)) > 1:
-			seqAttributes["SPECIESNAME"] = ncbi_dict[fileName][1].split(' ', 1)[1].lower()
-		else:
-			seqAttributes["SPECIESNAME"] = "species name not provided"
-
-
-	if fileName in onek_dict.keys():
-		seqAttributes["TAXID"] = int(onek_dict[fileName][0])
-		# print(onek_dict[fileName][1])
-		seqAttributes["GENUSNAME"] = onek_dict[fileName][1].split(' ', 1)[0].lower()
-		if len(onek_dict[fileName][1].split(' ', 1)) > 1:
-			seqAttributes["SPECIESNAME"] = onek_dict[fileName][1].split(' ', 1)[1].lower()
-		else:
-			seqAttributes["SPECIESNAME"] = "species name not provided"
-
-	if fileName in ensembl_dict.keys():
-		seqAttributes["TAXID"] = int(ensembl_dict[fileName][0])
-		# print(ensembl_dict[fileName][1].split(' ', 1)[0].lower())
-		# print(ensembl_dict[fileName][1].split(' ', 1)[1].lower())
-		seqAttributes["GENUSNAME"] = ensembl_dict[fileName][1].split(' ', 1)[0].lower()
-		if len(ensembl_dict[fileName][1].split(' ', 1)) > 1:
-			seqAttributes["SPECIESNAME"] = ensembl_dict[fileName][1].split(' ', 1)[1].lower()
-		else:
-			seqAttributes["SPECIESNAME"] = "species name not provided"
-	
 
 
 
