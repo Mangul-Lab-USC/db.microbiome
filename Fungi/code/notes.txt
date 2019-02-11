@@ -40,3 +40,9 @@ mtdna
 
 For viruses and bacteria, make sure to update the database construction to account for taxids and naming.
 
+
+
+UPDATEING DATABASE:
+UPDATE speciesdb
+SET GENUSTAXID = NULL
+WHERE GENUSTAXID = 0;
