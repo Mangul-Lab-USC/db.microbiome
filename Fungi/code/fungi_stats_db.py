@@ -97,12 +97,12 @@ def create_table():
 # 	onek_path = "/u/home/a/akarlsbe/scratch/fungi/1K" # leads to the list of directories
 # 	ensembl_path = "/u/home/a/akarlsbe/scratch/fungi/ENSEMBLE"
 #	ncbi_path = "/u/home/a/akarlsbe/scratch/fungi/NCBI"
-
 # moves all files in subdirectories of depth 2 into current directory.
 # find . -mindepth 2 -type f -print -exec mv {} . \;
 
 
-fungi_db_path = 
+
+
 
 # ls -d "$PWD"/* >> /Users/aaronkarlsberg/Desktop/db.microbiome/Code/aaron.list
 
